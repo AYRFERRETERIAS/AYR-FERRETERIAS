@@ -940,4 +940,67 @@ export const products = [
     category: "Herramientas Eléctricas",
     image: "./IMAGENES PRODUCTOS/herramientas electricas/Soldadora Inverter Laser MMA-160 Monofásica 160A.jpg"
   },
+  {
+    id: 135,
+    title: "Calefón Eléctrico Diluvio 20L Plástico Negro 1.1Kw",
+    description: "El Calentador Calefón Eléctrico Plástico 20l Diluvio Eco Negro es la solución ideal para quienes buscan comodidad y eficiencia en su hogar. Diseñado para colgar, este modelo de 20 litros ofrece un rendimiento óptimo en espacios reducidos, permitiendo disfrutar de duchas cálidas sin complicaciones. Su construcción en plástico garantiza durabilidad y resistencia, adaptándose a diferentes estilos de baño. Con un solo nivel de temperatura, este calefón es fácil de usar, brindando agua caliente de manera rápida y efectiva.",
+    category: "Artículos para el hogar",
+    image: "./IMAGENES PRODUCTOS/Articulos par ael hogar/Calefón Eléctrico Diluvio 20l Plástico Negro 1.1 Kw Colgar.jpg"
+  },
+  {
+    id: 136,
+    title: "Estufa Eléctrica Vertical Cuarzo 2 Velas 1200W",
+    description: "La estufa vertical de cuarzo de 1200W es la solución ideal para quienes buscan calidez y confort en espacios reducidos. Con su diseño vertical se adapta perfectamente a cualquier rincón de tu hogar, brindando un calor eficiente y agradable. Este calefactor eléctrico cuenta con una potencia máxima de 1200W, lo que garantiza un rendimiento óptimo en la calefacción de ambientes. Su línea de 2 velas permite una distribución uniforme del calor, asegurando que cada rincón se mantenga cálido y acogedor.",
+    category: "Artículos para el hogar",
+    image: "./IMAGENES PRODUCTOS/Articulos par ael hogar/Estufa Eléctrica Vertical Cuarzo 2 Velas 1200w.jpg"
+  },
+  {
+    id: 137,
+    title: "Llave de Impacto a Batería 20V Brushless Ingco 500Nm",
+    description: "¡Potencia sin límites con la Llave de Impacto Inalámbrica INGCO 500Nm! Esta bestia inalámbrica te brinda la potencia que necesitas para afrontar cualquier desafío con la máxima libertad. Sentí la adrenalina de dominar cada tornillo, tuerca o perno con su impresionante torque de 500Nm. Su motor brushless te garantiza un rendimiento superior, mayor durabilidad y una vida útil más larga. Incluye 3 tubos. ¡Olvidate de las limitaciones y llevá tus proyectos al siguiente nivel!",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Llave De Impacto A Bateria 20v Brushless Ingco 500nm 3 Tubos.jpg"
+  },
+  {
+    id: 138,
+    title: "Minitorno Gamma 130W Maletín Kit 119 Piezas",
+    description: "El Minitorno Gamma de 130W y 220V es la herramienta perfecta para tus proyectos de bricolaje y trabajos de precisión. Con su potente motor de 130W, podrás realizar tareas de lijado, pulido, grabado y más con facilidad y rapidez. Gracias a su amplio rango de velocidad, que va desde 8000 hasta 33000 rpm, tendrás el control total para adaptar la velocidad a cada tarea específica y obtener resultados profesionales. Incluye maletín con kit de 119 piezas.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Minitorno Gamma 130 Watts Mini Torno Maletin Kit 119 Piezas.jpg"
+  },
+  {
+    id: 139,
+    title: "Grifo de Cocina Monocomando GR13 Negro Cromado",
+    description: "El Grifo de Cocina Monocomando GR13 en color negro con acabado cromado es la elección perfecta para quienes buscan funcionalidad y estilo en su cocina. Su diseño moderno y elegante se adapta a cualquier decoración, aportando un toque contemporáneo a tu espacio. Fabricado en metal de alta calidad, este grifo cuenta con un control monocomando que permite ajustar fácilmente la temperatura y el flujo de agua con una sola mano, facilitando las tareas en la cocina. Su canilla flexible y su capacidad de giro hacen que sea ideal para llenar ollas y recipientes de diferentes tamaños, optimizando el tiempo y el esfuerzo en la preparación de tus comidas.",
+    category: "Plomería",
+    image: "./IMAGENES PRODUCTOS/plomeria/Grifo de cocina Flexibe monocomando gr13 negro acabado cromado.jpg"
+  },
+  {
+    id: 140,
+    title: "Soporte TV Smart Móvil Brazo Articulado 14 a 55 Pulgadas",
+    description: "Soporte Universal Móvil Reforzado, ideal para TV Plasma, Led, Lcd y 4K.",
+    category: "Artículos para el hogar",
+    image: "./IMAGENES PRODUCTOS/Articulos par ael hogar/Soporte Tv Smart Movil Brazo Articulado 14 A 55 Pulgadas.jpg"
+  },
+  {
+    id: 141,
+    title: "Soporte TV Universal Fijo 26 a 63 Pulgadas",
+    description: "Soporte para TV, apto para TV de 26\" a 63\". Cumplimiento VESA: 200x200mm, 200x400mm, 300x300mm, 400x400mm. Capacidad de carga: 25kg. La ubicación de tu TV o monitor es de suma importancia, ya que compartirás muchas horas de entretenimiento o trabajo. Aprovechá al máximo el espacio con un soporte resistente que te brinde comodidad, fácil de instalar.",
+    category: "Artículos para el hogar",
+    image: "./IMAGENES PRODUCTOS/Articulos par ael hogar/Soporte TV Universal Fijo Fácil Instalación 26-63 pulgadas.jpg"
+  },
+  {
+    id: 142,
+    title: "Canilla Grifería Monocomando Cocina Mesada Negra Rory",
+    description: "La marca Rory ofrece un diseño cómodo y práctico que te permitirá regular la salida de agua cuando laves platos, cocines, etc. El control monocomando es un sistema moderno, durable y de fácil instalación, que te permitirá accionar la apertura y el cierre del caudal con una sola mano. El aireador hace que la salida del agua sea espumosa, suave y con menos presión, minimizando las salpicaduras y posibilitando un ahorro de hasta un 30%.",
+    category: "Plomería",
+    image: "./IMAGENES PRODUCTOS/plomeria/Canilla Griferia Monocomando Cocina Mesada Negra Rory.jpg"
+  },
+  {
+    id: 143,
+    title: "Canilla Grifería para Baño Monocomando Lavatorio Metal Negro",
+    description: "La canilla grifería monocomando para baño vanitory en color negro es la elección perfecta para quienes buscan un diseño moderno y funcional. Fabricada con materiales de alta calidad como ABS, acero inoxidable y metal, garantiza durabilidad y resistencia al uso diario. Su acabado en negro aporta un toque elegante y contemporáneo a cualquier espacio. Este modelo cuenta con un solo agujero y es ideal para montaje de mesa, lo que facilita su instalación en diversas ubicaciones como bachas, bañeras y vanitories. El control monocomando permite un manejo sencillo y preciso de la temperatura y el flujo del agua, mejorando la experiencia de uso en el baño.",
+    category: "Plomería",
+    image: "./IMAGENES PRODUCTOS/plomeria/Canilla Griferia Bano Monocomando Lavatorio Metal Negro.jpg"
+  },
 ];
