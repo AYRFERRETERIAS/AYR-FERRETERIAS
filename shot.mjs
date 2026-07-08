@@ -1,0 +1,14 @@
+import { chromium } from 'playwright';
+const browser = await chromium.launch({ channel: 'chrome' });
+const page = await browser.newPage();
+await page.setViewportSize({ width: 1280, height: 900 });
+await page.goto('http://localhost:5199', { waitUntil: 'networkidle', timeout: 10000 });
+const verCatalogo = page.getByText('Ver Catálogo').first();
+if (await verCatalogo.isVisible()) await verCatalogo.click();
+await page.waitForTimeout(1000);
+const plomeria = page.getByText('Plomería').first();
+if (await plomeria.isVisible()) await plomeria.click();
+await page.waitForTimeout(1200);
+await page.screenshot({ path: '/c/Users/rover/plomeria_catalog.png' });
+await browser.close();
+console.log('OK');

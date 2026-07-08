@@ -1,0 +1,73 @@
+.topbar {
+  background-color: var(--color-navbar);
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.8rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.topbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 38px;
+}
+
+.topbar-left,
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.topbar-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  white-space: nowrap;
+}
+
+.topbar-muted {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.topbar-link:hover {
+  color: var(--color-primary);
+}
+
+.topbar-empresas {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background-color: var(--color-primary);
+  color: #111;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding: 0.35rem 0.9rem;
+  border-radius: 4px;
+  transition: var(--transition);
+}
+
+.topbar-empresas:hover {
+  background-color: var(--color-primary-hover);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 900px) {
+  .topbar-left .topbar-item:first-child,
+  .topbar-muted {
+    display: none;
+  }
+}
+
+@media (max-width: 560px) {
+  .topbar {
+    font-size: 0.7rem;
+  }
+  .topbar-container {
+    height: 34px;
+  }
+  .topbar-empresas {
+    padding: 0.3rem 0.6rem;
+  }
+}

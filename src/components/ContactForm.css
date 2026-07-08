@@ -1,0 +1,158 @@
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+  background-color: var(--color-navbar);
+  border-radius: var(--border-radius);
+  padding: 3rem;
+  color: #fff;
+}
+
+@media (min-width: 860px) {
+  .contact-grid {
+    grid-template-columns: 1fr 1.3fr;
+    padding: 3rem;
+  }
+}
+
+.contact-info h2 {
+  color: #fff;
+  font-size: clamp(1.8rem, 3.5vw, 2.25rem);
+  margin: 0.5rem 0 1.25rem;
+}
+
+.contact-info p {
+  color: rgba(255, 255, 255, 0.72);
+  font-size: 1.05rem;
+  margin-bottom: 2rem;
+}
+
+.contact-info-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+
+.contact-info-list li {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.contact-info-list svg {
+  flex-shrink: 0;
+  color: var(--color-primary);
+}
+
+.contact-info-list a {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.contact-info-list a:hover {
+  color: var(--color-primary);
+}
+
+/* ===== Formulario ===== */
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.contact-hidden-field {
+  display: none;
+}
+
+.contact-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.contact-field-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+}
+
+@media (min-width: 560px) {
+  .contact-field-row {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.contact-field label {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.contact-field input,
+.contact-field textarea {
+  background-color: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: #fff;
+  transition: var(--transition);
+  resize: vertical;
+}
+
+.contact-field input::placeholder,
+.contact-field textarea::placeholder {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.contact-field input:focus,
+.contact-field textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.contact-submit {
+  margin-top: 0.5rem;
+  align-self: flex-start;
+  padding: 0.9rem 2rem;
+}
+
+.contact-submit:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.contact-error {
+  color: #ffb4b4;
+  font-size: 0.9rem;
+}
+
+/* ===== Estado enviado ===== */
+.contact-success {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.75rem;
+  background-color: var(--color-navbar);
+  border-radius: var(--border-radius);
+  padding: 4rem 2rem;
+  color: #fff;
+}
+
+.contact-success svg {
+  color: var(--color-primary);
+}
+
+.contact-success h3 {
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.contact-success p {
+  color: rgba(255, 255, 255, 0.75);
+}

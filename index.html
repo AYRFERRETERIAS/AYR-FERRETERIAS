@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ayr-ferreterias</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+
+    <!--
+      Formulario estático oculto: existe SOLO para que Netlify lo detecte al
+      hacer el build (Netlify lee el HTML generado, no ejecuta JS). El
+      formulario visible que completan los usuarios es el de React
+      (src/components/ContactForm.jsx) y envía los datos a este mismo nombre
+      ("contacto") por fetch. No borrar ni cambiarle el name/los campos sin
+      actualizar también ContactForm.jsx.
+    -->
+    <form name="contacto" data-netlify="true" netlify-honeypot="bot-field" hidden>
+      <input type="text" name="nombre" />
+      <input type="tel" name="telefono" />
+      <input type="email" name="email" />
+      <input type="text" name="interes" />
+      <textarea name="mensaje"></textarea>
+      <input type="text" name="bot-field" />
+    </form>
+  </body>
+</html>
