@@ -821,4 +821,123 @@ export const products = [
     category: "Plomería",
     image: "./IMAGENES PRODUCTOS/plomeria/ACOPLE DE COMPRESION DUKE 1 PUL. - copia (2).jpg"
   },
+  {
+    id: 118,
+    title: "Rotomartillo Makita HR2470 azul con 780W",
+    description: "Con presencial mundial es más de 50 países, Makita es líder en innovación al producir herramientas tecnológicas y de alta calidad. Los productos que desarrolla son amigables para sus usuarios y el medioambiente.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Rotomartillo Makita HR2470 azul con 780W.jpg"
+  },
+  {
+    id: 119,
+    title: "Rotomartillo Skil 1859 Mandril Mechas Cinceles Rotopercutor",
+    description: "Rotomartillo SDS Plus 750W 2.1J Skil 1859. El Skil 1859 es un rotomartillo profesional diseñado para tareas exigentes. Equipado con un potente motor de 750W, ofrece gran versatilidad con tres modos de aplicación: perforación con impacto, perforación sin impacto y cincelado. Su diseño robusto y funcional lo hace ideal para profesionales que necesitan herramientas confiables y de alto rendimiento.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Rotomartillo Skil 1859 Mandril Mechas Cinceles Rotopercutor.jpg"
+  },
+  {
+    id: 120,
+    title: "Rotomartillo Nebraska NEMERM26 800W",
+    description: "Potencia, rendimiento y versatilidad en una sola herramienta. El rotomartillo Nebraska SDS Plus de 850W está diseñado para trabajos exigentes en concreto, mampostería, madera y metal, brindando perforaciones precisas y gran capacidad de impacto.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Nebraska NEMERM26 POTENCIA 800W.jpg"
+  },
+  {
+    id: 121,
+    title: "Lijadora Orbital Skil 7232 Negra 200W",
+    description: "Lijadora orbital de palma eléctrica equipada con un potente motor de 200 Watts con bajo nivel de vibración. Fácil cambio de papel de lija con sistema de grapado, que permite cambiar el papel de lija sin rasgarlo. Interruptor sellado internamente, lo que dificulta la entrada de polvo dentro de la máquina para una mayor durabilidad.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Lijadora profesional orbital Skil 7232 negra 50Hz60Hz 200W.jpg"
+  },
+  {
+    id: 122,
+    title: "Amoladora Angular Nebraska Nemea115850 115mm 850W",
+    description: "La Amoladora Angular Nebraska Nemea115850 es una herramienta esencial para profesionales y aficionados al bricolaje que buscan calidad y rendimiento. Con un potente motor de 850W, esta amoladora angular permite realizar cortes precisos y eficientes gracias a su capacidad para discos de 115 mm. Su velocidad de vacío de 12.000 RPM asegura un acabado perfecto en cada proyecto. Diseñada con un gatillo paleta, ofrece un manejo cómodo y seguro, asegurando que puedas trabajar durante períodos prolongados sin fatiga.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Amoladora Angular Nebraska Nemea115850 115m 850w.jpg"
+  },
+  {
+    id: 123,
+    title: "Amoladora Bosch GWS 700 Professional 710W 115mm",
+    description: "La Amoladora Angular Bosch GWS 700 Professional 710W – 115 mm es una herramienta robusta, confiable y eficiente, diseñada para quienes necesitan resultados profesionales todos los días. Equipada con un motor de 710 W, ofrece la potencia justa para realizar cortes, desbastes y pulidos con precisión y constancia, alcanzando hasta 12.000 RPM. Utiliza discos de 115 mm, el formato más usado del mercado, lo que garantiza amplia compatibilidad con accesorios.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Amoladora Bosch Gws 700 Professional Eléctrica 710w - 115mm.jpg"
+  },
+  {
+    id: 124,
+    title: "Sierra Circular Nebraska Professional 1750W Nemesc10185",
+    description: "Herramienta potente y precisa, ideal para cortes rectos en madera y trabajos de carpintería, construcción y mantenimiento. Su motor de alta potencia permite un rendimiento constante incluso en tareas exigentes.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Sierra Circular Nebraska Professional 1750W Nemesc10185.jpg"
+  },
+  {
+    id: 125,
+    title: "Fresadora Router de Mano 6mm/1/4\" 650W Nemer012",
+    description: "Fresadora Router de mano para uso profesional. Capacidad 1/4'' y 6mm (incluye ambas pinzas). Potencia: 650W. Agarre ergonómico para mayor precisión en los trabajos. Estructura reforzada que otorga mayor vida útil a la herramienta.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Fresadora rebajador router tupi de mano 6mm 14 650w nemer012.jpg"
+  },
+  {
+    id: 126,
+    title: "Taladro Percutor Atornillador Bosch GSB450RE 450W 10mm",
+    description: "Convertite en un verdadero profesional con el taladro Percutor BOSCH GSB 450 RE, diseñado con un modelo compacto y robusto al mismo tiempo que hace más cómodo el trabajo. Cuenta con 450 watts de potencia y posee un resistente mandril en metal de alta calidad (10 mm). Con el taladro Percutor BOSCH GSB 450 podés elegir perforar con o sin percusión con el botón conmutador, además posee una tecla de doble bloqueo que facilita los trabajos continuados. ¡Súper cómodo!",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Taladro Percutor Atornillador Bosch Gsb450re 450w 10mm.jpg"
+  },
+  {
+    id: 127,
+    title: "Nivel Láser Bosch GLL 2-12 con Bolsa Protectora",
+    description: "Este nivel láser Bosch GLL 2-12 proyecta líneas sobre la superficie que te resultarán de utilidad para aplicaciones comunes de nivelación y alineación como colocación de cuadros, pisos, carpintería, entre otros. Alcance de 12 metros y precisión de 0.8mm, autonivelante. Una herramienta imprescindible para realizar cualquier tipo de trabajo de precisión. Utilizalo en tu hogar para instalar muebles o en tu espacio laboral para realizar tareas de mayor complejidad y alcanzá resultados de máxima exactitud.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Nivel Láser Bosch GLL 2-12 Línea Roja con Bolsa Protectora.jpg"
+  },
+  {
+    id: 128,
+    title: "Nivel Láser Autonivelante 360° Bremen 7287",
+    description: "Posee 3 planos autonivelantes que ofrecen la posibilidad de nivelar o realizar verificaciones sobre superficies horizontales y verticales en simultáneo. Esto permite reducir el tiempo requerido para hacer el trabajo. Líneas Láser color rojo de alta luminosidad, para una correcta visualización tanto en interior como en exterior. Ideal para trabajos de construcción, carpintería, electricidad, y todo tipo de instalaciones que requieran de un alto nivel de precisión. Gran versatilidad gracias a su selector de planos, que permite encenderlos de manera individual, dual, o los 3 en simultáneo, variando la intensidad del láser.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Nivel Laser Autonivelante 360° Bremen 7287 Luz Roja.jpg"
+  },
+  {
+    id: 129,
+    title: "Pistola de Calor Nebraska Nemepc2000 2000W",
+    description: "La pistola de calor Nebraska NEMEPC2000 es una herramienta esencial para quienes buscan eficiencia y versatilidad en sus proyectos. Con una potencia de 2000W, permite alcanzar temperaturas que oscilan entre 380°C y 500°C, adaptándose a diversas aplicaciones, desde trabajos de bricolaje hasta tareas más complejas. Su diseño ergonómico y empuñadura antideslizante garantizan un manejo cómodo y seguro, incluso durante largas jornadas de trabajo. Incluye cuatro boquillas y un raspador, lo que la convierte en una opción completa para quienes requieren diferentes tipos de acabados y técnicas.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Pistola De Calor Nebraska Nemepc2000 Naranja 2000w.jpg"
+  },
+  {
+    id: 130,
+    title: "Sierra Caladora Skil 4380 380W Negro",
+    description: "Sierra caladora Skil 4380 de 380 Watts. Cuenta con diseño ergonómico, amplio gatillo de accionamiento e interruptor de bloqueo apto para diestros y zurdos. El sistema de fijación de cuchillas opera mediante un tornillo tipo allen, complementado con un soporte y cursor robusto. La placa base permite la regulación de la inclinación hasta 45º hacia ambos lados, facilitando cortes precisos en ángulos de 15º, 30º y 45º.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Sierra Caladora 4380 Skil 380w Color Negro.jpg"
+  },
+  {
+    id: 131,
+    title: "Taladro Percusión Skil 6604jb 570W Mandril 10mm",
+    description: "El Taladro de impacto Skil posee 570 Watts de potencia, es liviano y compacto. El mandril metálico de 1/2\" (13 milímetros) es robusto para las aplicaciones diarias. Su motor cuenta con rodamiento para mayor durabilidad. Posee interruptor de velocidad variable electrónico para realizar perforaciones y atornillados en diversos materiales, y es reversible para facilitar los desatornillados.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Taladro Con Percusión 6604jb Skil 570w Mandril 10mm.jpg"
+  },
+  {
+    id: 132,
+    title: "Sierra Caladora Nebraska NEMECA07550 550W",
+    description: "Precisión y potencia en tus manos. Potencia de 550W para cortes precisos y eficientes. Velocidad variable no ajustable con rango de 600-2600 rpm para adaptarse a diferentes materiales y aplicaciones. Capacidad de corte de 65mm para manejar materiales de diferentes espesores. Diseño ergonómico para un manejo cómodo y seguro. Peso ligero de 1,5 kg para reducir la fatiga y mejorar la maniobrabilidad.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Sierra Caladora Nebraska NEMECA07550 550W.jpg"
+  },
+  {
+    id: 133,
+    title: "Soldadora Inverter 120A Laser Discovery 155 Roja",
+    description: "La Soldadora Inverter 120A Laser Discovery 155 es una herramienta esencial para profesionales y aficionados de la soldadura. Diseñada con una tensión eléctrica monofásica de 220V y una frecuencia de 50Hz, ofrece una corriente de salida ajustable entre 30 y 120 A, ideal para trabajar con electrodos de hasta 1,6 mm. Su ciclo de servicio del 40% y eficiencia del 80% garantizan un rendimiento óptimo en cada proyecto. Con un peso ligero de solo 2,5 kg y dimensiones compactas de 10 cm de ancho, 22 cm de largo y 14 cm de alto, es fácil de transportar y almacenar. Además, cuenta con un grado de protección IP21S, asegurando durabilidad y resistencia.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Soldadora Inverter 120a Laser Discovery 155 Rojo.jpg"
+  },
+  {
+    id: 134,
+    title: "Soldadora Inverter Laser MMA-160 Monofásica 160A",
+    description: "La Soldadora Inverter 160A Laser Discovery 225 es una herramienta esencial para profesionales y aficionados de la soldadura. Diseñada con una tensión eléctrica monofásica de 220V y una frecuencia de 50Hz, ofrece una corriente de salida ajustable entre 30 y 160 A, ideal para trabajar con electrodos de hasta 3.25 mm. Su ciclo de servicio del 40% y eficiencia del 80% garantizan un rendimiento óptimo en cada proyecto.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Soldadora Inverter Laser MMA-160 Monofásica 160A.jpg"
+  },
 ];
