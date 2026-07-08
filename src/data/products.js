@@ -1003,4 +1003,25 @@ export const products = [
     category: "Plomería",
     image: "./IMAGENES PRODUCTOS/plomeria/Canilla Griferia Bano Monocomando Lavatorio Metal Negro.jpg"
   },
+  {
+    id: 144,
+    title: "Hidrolavadora Nebraska Nemehl1200 1200W",
+    description: "La Hidrolavadora Nemehl1200 de Nebraska es la herramienta ideal para mantener la limpieza de tus vehículos, hogares y diversas superficies. Con una potente potencia de 1200W y una presión máxima de 90 bar, permite eliminar la suciedad más difícil de manera eficiente. Su caudal nominal de 5 L/min garantiza un lavado efectivo sin gastar agua innecesariamente. Gracias a su sistema Auto-Stop, se optimiza el consumo energético y se alarga la vida útil del equipo. Con un peso de solo 5,2 kg, es fácil de transportar y guardar. Frecuencia 50-60Hz.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Nemehl1200 Hidrolavadora 1200w Nebraska Color Naranja Frecuencia 50-60HZ.jpg"
+  },
+  {
+    id: 145,
+    title: "Lijadora Orbital Nebraska Nemelo10170 170W",
+    description: "La lijadora de palma orbital es una herramienta eléctrica diseñada para el acabado de superficies mediante un movimiento vibratorio. El equipo opera con un motor de 170W que alcanza una velocidad en vacío de 14.000 rpm. Su sistema de propulsión emplea tecnología con escobillas y se alimenta mediante conexión a corriente doméstica a una frecuencia de 50Hz.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Lijadora Orbital Nebraska Nemelo10170 170W 14000RPM Color Naranja.jpg"
+  },
+  {
+    id: 146,
+    title: "Bordeadora Eléctrica Gamma 300W Corte 22cm",
+    description: "Bordeadora de césped Gamma G3079AR 300W 220V. Producto diseñado para uso doméstico, para bordear y cortar el césped en espacios pequeños. Fácil de transportar, cómoda con apoyo de muñeca para su mejor manejo. Incluye protector de seguridad, empuñadura oval y eje curvo. Corte de 22cm.",
+    category: "Herramientas Eléctricas",
+    image: "./IMAGENES PRODUCTOS/herramientas electricas/Bordeadora Electrica Gamma 300w Corte 22cm Desmalezadora.jpg"
+  },
 ];
