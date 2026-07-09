@@ -7,7 +7,7 @@ const TopBar = () => {
       <div className="container topbar-container">
         <div className="topbar-left">
           <span className="topbar-item">
-            <Clock size={14} /> Lun a Sáb 08:00 a 20:00hs
+            <Clock size={14} /> Lun a Sáb 08:00 a 20:00hs · Dom 08:00 a 13:00hs
           </span>
           <a href="#nosotros" className="topbar-item topbar-link">
             <Info size={14} /> Quiénes Somos

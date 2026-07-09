@@ -74,7 +74,7 @@ const ContactForm = () => {
           </li>
           <li>
             <Clock size={18} />
-            <span>Lun a Sáb 08:00 a 20:00hs</span>
+            <span>Lun a Sáb 08:00 a 20:00hs · Dom 08:00 a 13:00hs</span>
           </li>
         </ul>
       </div>
