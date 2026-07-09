@@ -23,7 +23,6 @@ const ProductDetail = () => {
   }, [slug]);
 
   useEffect(() => {
-    window.scrollTo({ top: 0, behavior: 'instant' });
     setQty(1);
   }, [slug]);
 
