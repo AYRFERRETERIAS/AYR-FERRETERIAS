@@ -1,15 +1,17 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { Menu, X, Search, MessageCircle } from 'lucide-react';
+import { Menu, X, Search, MessageCircle, ShoppingCart } from 'lucide-react';
 import TopBar from './TopBar';
 import { categories } from '../data/products';
 import { useCatalog } from '../context/CatalogContext';
+import { useCart } from '../context/CartContext';
 import './Header.css';
 
 const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const { activeCategory, searchTerm, selectCategory, search, goHome } = useCatalog();
+  const { totalCount, openCart } = useCart();
 
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 20);
@@ -52,6 +54,10 @@ const Header = () => {
           </form>
 
           <div className="header-actions">
+            <button className="header-cart-btn" onClick={openCart} aria-label="Ver carrito">
+              <ShoppingCart size={20} />
+              {totalCount > 0 && <span className="header-cart-badge">{totalCount}</span>}
+            </button>
             <a
               href="https://wa.me/5491176613331"
               target="_blank"
@@ -61,6 +67,15 @@ const Header = () => {
               <MessageCircle size={18} /> Consultá por WhatsApp
             </a>
           </div>
+
+          <button
+            className="header-cart-btn header-cart-btn--mobile"
+            onClick={openCart}
+            aria-label="Ver carrito"
+          >
+            <ShoppingCart size={22} />
+            {totalCount > 0 && <span className="header-cart-badge">{totalCount}</span>}
+          </button>
 
           <button
             className="mobile-menu-btn"
