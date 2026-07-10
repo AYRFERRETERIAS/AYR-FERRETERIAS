@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { Menu, X, Search, MessageCircle, ShoppingCart } from 'lucide-react';
 import TopBar from './TopBar';
 import { categories } from '../data/products';
@@ -12,6 +12,8 @@ const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const { activeCategory, searchTerm, selectCategory, search, goHome } = useCatalog();
   const { totalCount, openCart } = useCart();
+  const navigate = useNavigate();
+  const location = useLocation();
 
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 20);
@@ -22,11 +24,20 @@ const Header = () => {
   const handleSearch = (e) => {
     e.preventDefault();
     search(searchTerm.trim());
+    if (location.pathname !== '/') navigate('/');
   };
 
   const handleCategoryClick = (cat) => {
     selectCategory(cat);
     setMobileMenuOpen(false);
+    // Si el catalogo no esta en esta pantalla (ej. estando en la ficha de un
+    // producto), hay que navegar a la home para que el filtro se vea.
+    if (location.pathname !== '/') navigate('/');
+  };
+
+  const handleSearchChange = (value) => {
+    search(value);
+    if (value.trim() && location.pathname !== '/') navigate('/');
   };
 
   const navCategories = ['Todas', ...categories];
@@ -48,7 +59,7 @@ const Header = () => {
               type="text"
               placeholder="Buscar productos..."
               value={searchTerm}
-              onChange={(e) => search(e.target.value)}
+              onChange={(e) => handleSearchChange(e.target.value)}
               aria-label="Buscar productos"
             />
           </form>
