@@ -55,10 +55,16 @@ html {
 /* Compensa el header fijo al saltar con anclas (#nosotros, #catalogo, #sucursales)
    para que el título de la sección no quede tapado debajo del header. */
 #nosotros,
-#catalogo,
 #sucursales,
 #contacto {
   scroll-margin-top: 175px;
+}
+
+/* Al catálogo se salta seguido (cada vez que se elige una categoría), asi
+   que el margen esta ajustado bien pegado a la altura real del header
+   (compacto, ~156px) para que el título quede lo mas arriba posible. */
+#catalogo {
+  scroll-margin-top: 160px;
 }
 
 body {

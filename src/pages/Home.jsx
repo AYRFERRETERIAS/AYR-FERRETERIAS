@@ -1,4 +1,5 @@
-import { useMemo } from 'react';
+import { useMemo, useEffect } from 'react';
+import { useLocation, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import {
   ChevronRight,
@@ -41,20 +42,55 @@ const features = [
 ];
 
 const Home = () => {
-  const { activeCategory, selectCategory, searchTerm } = useCatalog();
+  const {
+    activeCategory,
+    selectCategory,
+    activeSubcategory,
+    selectSubcategory,
+    searchTerm,
+    scrollToCatalog,
+  } = useCatalog();
+  const location = useLocation();
+  const navigate = useNavigate();
+
+  // Subcategorias disponibles para la categoria activa (ej. Plomería tiene
+  // PVC, Awaduct, PPN, Griferías). Si la categoria no tiene subcategorias
+  // cargadas, esta lista queda vacia y no se muestra la fila de filtros.
+  const subcategories = useMemo(() => {
+    if (activeCategory === 'Todas') return [];
+    const set = new Set(
+      products
+        .filter((p) => p.category === activeCategory && p.subcategory)
+        .map((p) => p.subcategory)
+    );
+    return Array.from(set);
+  }, [activeCategory]);
+
+  // Si llegamos desde otra pagina pidiendo ir directo al catalogo (ej. se
+  // eligio una categoria desde la ficha de un producto), lo hacemos apenas
+  // esta pantalla esta montada y borramos el pedido para que no se repita
+  // si el usuario despues usa "atras/adelante" del navegador.
+  useEffect(() => {
+    if (location.state?.scrollToCatalog) {
+      scrollToCatalog();
+      navigate(location.pathname, { replace: true, state: {} });
+    }
+  }, [location.state]);
 
   const filteredProducts = useMemo(() => {
     const term = searchTerm.trim().toLowerCase();
     return products.filter((p) => {
       const matchCategory = activeCategory === 'Todas' || p.category === activeCategory;
+      const matchSubcategory =
+        activeSubcategory === 'Todas' || p.subcategory === activeSubcategory;
       const matchSearch =
         !term ||
         p.title.toLowerCase().includes(term) ||
         p.description.toLowerCase().includes(term) ||
         p.category.toLowerCase().includes(term);
-      return matchCategory && matchSearch;
+      return matchCategory && matchSubcategory && matchSearch;
     });
-  }, [activeCategory, searchTerm]);
+  }, [activeCategory, activeSubcategory, searchTerm]);
 
   return (
     <div className="home-page">
@@ -200,6 +236,27 @@ const Home = () => {
               </button>
             ))}
           </div>
+
+          {/* Subcategorías (solo si la categoría activa tiene) */}
+          {subcategories.length > 0 && (
+            <div className="subcategories-filter">
+              <button
+                className={`subcategory-btn ${activeSubcategory === 'Todas' ? 'active' : ''}`}
+                onClick={() => selectSubcategory('Todas')}
+              >
+                Todas
+              </button>
+              {subcategories.map((sub) => (
+                <button
+                  key={sub}
+                  className={`subcategory-btn ${activeSubcategory === sub ? 'active' : ''}`}
+                  onClick={() => selectSubcategory(sub)}
+                >
+                  {sub}
+                </button>
+              ))}
+            </div>
+          )}
 
           {searchTerm.trim() && (
             <p className="search-info">

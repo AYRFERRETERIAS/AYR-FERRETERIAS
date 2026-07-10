@@ -11,9 +11,14 @@ const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const { activeCategory, searchTerm, selectCategory, search, goHome } = useCatalog();
-  const { totalCount, openCart } = useCart();
+  const { totalCount } = useCart();
   const navigate = useNavigate();
   const location = useLocation();
+
+  const goToCart = () => {
+    setMobileMenuOpen(false);
+    navigate('/carrito');
+  };
 
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 20);
@@ -24,7 +29,7 @@ const Header = () => {
   const handleSearch = (e) => {
     e.preventDefault();
     search(searchTerm.trim());
-    if (location.pathname !== '/') navigate('/');
+    if (location.pathname !== '/') navigate('/', { state: { scrollToCatalog: true } });
   };
 
   const handleCategoryClick = (cat) => {
@@ -32,12 +37,14 @@ const Header = () => {
     setMobileMenuOpen(false);
     // Si el catalogo no esta en esta pantalla (ej. estando en la ficha de un
     // producto), hay que navegar a la home para que el filtro se vea.
-    if (location.pathname !== '/') navigate('/');
+    if (location.pathname !== '/') navigate('/', { state: { scrollToCatalog: true } });
   };
 
   const handleSearchChange = (value) => {
     search(value);
-    if (value.trim() && location.pathname !== '/') navigate('/');
+    if (value.trim() && location.pathname !== '/') {
+      navigate('/', { state: { scrollToCatalog: true } });
+    }
   };
 
   const navCategories = ['Todas', ...categories];
@@ -65,7 +72,7 @@ const Header = () => {
           </form>
 
           <div className="header-actions">
-            <button className="header-cart-btn" onClick={openCart} aria-label="Ver carrito">
+            <button className="header-cart-btn" onClick={goToCart} aria-label="Ver carrito">
               <ShoppingCart size={20} />
               {totalCount > 0 && <span className="header-cart-badge">{totalCount}</span>}
             </button>
@@ -81,7 +88,7 @@ const Header = () => {
 
           <button
             className="header-cart-btn header-cart-btn--mobile"
-            onClick={openCart}
+            onClick={goToCart}
             aria-label="Ver carrito"
           >
             <ShoppingCart size={22} />
@@ -126,7 +133,7 @@ const Header = () => {
             type="text"
             placeholder="Buscar productos..."
             value={searchTerm}
-            onChange={(e) => search(e.target.value)}
+            onChange={(e) => handleSearchChange(e.target.value)}
           />
         </form>
         <ul>

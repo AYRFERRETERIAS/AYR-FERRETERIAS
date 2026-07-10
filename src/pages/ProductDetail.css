@@ -83,6 +83,24 @@
   margin-bottom: 0.85rem;
 }
 
+.product-detail-added-note {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--color-whatsapp-dark);
+  background: rgba(37, 211, 102, 0.1);
+  border-radius: var(--border-radius-sm);
+  padding: 0.6rem 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.85rem;
+}
+
+.product-detail-added-note a {
+  color: var(--color-whatsapp-dark);
+  text-decoration: underline;
+}
+
 .qty-selector {
   display: inline-flex;
   align-items: center;

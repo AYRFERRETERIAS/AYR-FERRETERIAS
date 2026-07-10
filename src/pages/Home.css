@@ -220,13 +220,17 @@
 
 /* ===== Catálogo ===== */
 .catalog-section {
-  padding: 5.5rem 0;
+  /* Poco padding arriba a proposito: al elegir una categoria, el salto
+     lleva justo a este bloque, y con mucho aire arriba el titulo quedaba
+     lejos del borde superior en vez de pegado, como si "no hubiera
+     llegado del todo". Abajo se mantiene el aire normal. */
+  padding: 1.5rem 0 5.5rem;
   background-color: var(--color-gray);
 }
 
 .section-header {
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .section-eyebrow {
@@ -290,6 +294,39 @@
 
 .category-icon {
   display: inline-flex;
+}
+
+/* Subcategorias: fila secundaria, mas chica y discreta que las categorias */
+.subcategories-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin: -1rem auto 2rem;
+}
+
+.subcategory-btn {
+  background-color: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.14);
+  padding: 0.4rem 0.9rem;
+  border-radius: 99px;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.subcategory-btn:hover {
+  border-color: var(--color-dark);
+  color: var(--color-dark);
+}
+
+.subcategory-btn.active {
+  background-color: var(--color-dark);
+  color: #fff;
+  border-color: var(--color-dark);
 }
 
 .search-info {

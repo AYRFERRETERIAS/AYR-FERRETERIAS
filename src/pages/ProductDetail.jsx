@@ -1,6 +1,6 @@
 import { useState, useMemo, useEffect } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
-import { Minus, Plus, MessageCircle, ChevronRight, ShoppingCart } from 'lucide-react';
+import { Minus, Plus, MessageCircle, ChevronRight, ShoppingCart, Check } from 'lucide-react';
 import { products } from '../data/products';
 import { productSlug, idFromSlug } from '../utils/slug';
 import { useCart } from '../context/CartContext';
@@ -16,6 +16,7 @@ const ProductDetail = () => {
   const { addToCart } = useCart();
   const { selectCategory } = useCatalog();
   const [qty, setQty] = useState(1);
+  const [justAdded, setJustAdded] = useState(false);
 
   const product = useMemo(() => {
     const id = idFromSlug(slug);
@@ -55,7 +56,7 @@ const ProductDetail = () => {
             className="breadcrumb-link"
             onClick={() => {
               selectCategory(product.category);
-              navigate('/');
+              navigate('/', { state: { scrollToCatalog: true } });
             }}
           >
             {product.category}
@@ -87,11 +88,22 @@ const ProductDetail = () => {
 
               <button
                 className="btn btn-primary product-detail-add"
-                onClick={() => addToCart(product.id, qty)}
+                onClick={() => {
+                  addToCart(product.id, qty);
+                  setJustAdded(true);
+                  setTimeout(() => setJustAdded(false), 2500);
+                }}
               >
                 <ShoppingCart size={18} /> Agregar a la consulta
               </button>
             </div>
+
+            {justAdded && (
+              <p className="product-detail-added-note">
+                <Check size={16} /> Agregado al carrito.{' '}
+                <Link to="/carrito">Ver carrito</Link>
+              </p>
+            )}
 
             <a
               href={whatsappUrl}
