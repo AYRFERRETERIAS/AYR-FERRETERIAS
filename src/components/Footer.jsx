@@ -75,7 +75,9 @@ const Footer = () => {
             </li>
             <li>
               <Mail className="text-primary" size={18} />
-              <span>VENTAS@FERRETERIAAYR.COM</span>
+              <a href="mailto:ventas@ferreteriaayr.com" className="link-primary">
+                VENTAS@FERRETERIAAYR.COM
+              </a>
             </li>
           </ul>
         </div>

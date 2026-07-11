@@ -136,6 +136,29 @@
   color: var(--color-offer);
 }
 
+.cart-page-item-price {
+  flex-shrink: 0;
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0.2rem;
+  min-width: 90px;
+}
+
+.cart-page-item-price-total {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 1.05rem;
+  color: var(--color-dark);
+}
+
+.cart-page-item-price-unit {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+}
+
 .cart-continue-shopping {
   display: inline-flex;
   align-items: center;
@@ -182,11 +205,37 @@
   font-weight: 600;
 }
 
+.cart-summary-total {
+  border-bottom: none;
+  padding-top: 0.85rem;
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 1.15rem;
+  color: var(--color-dark);
+}
+
 .cart-summary-note {
   font-size: 0.8rem;
   color: var(--color-text-muted);
   margin: 1rem 0;
   line-height: 1.5;
+}
+
+.cart-summary-note--warn {
+  color: var(--color-primary);
+  margin-top: -0.5rem;
+  font-weight: 600;
+}
+
+.cart-summary-free-shipping {
+  color: var(--color-whatsapp-dark);
+  font-weight: 700;
+}
+
+.cart-summary-note--success {
+  color: var(--color-whatsapp-dark);
+  margin-top: -0.5rem;
+  font-weight: 600;
 }
 
 .cart-summary-cta {

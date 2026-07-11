@@ -41,11 +41,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ferreteriaayr.com/producto/fijador-sellador-riopint-20l-8</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://ferreteriaayr.com/producto/enduido-iterior-riopint-1l-9</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -531,16 +526,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ferreteriaayr.com/producto/sombrerete-pvc-40mm-107</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ferreteriaayr.com/producto/sombrerete-pvc-50mm-108</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://ferreteriaayr.com/producto/sombrerete-pvc-63mm-109</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1021,11 +1006,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ferreteriaayr.com/producto/codo-rosca-m-20-x-3-4-termofusion-205</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://ferreteriaayr.com/producto/codo-rosca-m-25-x-1-2-termofusion-206</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1081,11 +1061,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ferreteriaayr.com/producto/cupla-rosca-h-20-x-3-4-termofusion-217</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://ferreteriaayr.com/producto/cupla-rosca-h-25-x-1-2-termofusion-218</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1102,11 +1077,6 @@
   </url>
   <url>
     <loc>https://ferreteriaayr.com/producto/cupla-rosca-m-20-x-1-2-termofusion-221</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ferreteriaayr.com/producto/cupla-rosca-m-20-x-3-4-termofusion-222</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1332,6 +1302,141 @@
   </url>
   <url>
     <loc>https://ferreteriaayr.com/producto/valvula-llave-de-paso-duke-3-4-267</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/tornillo-hex-punta-calada-14x2-268</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/tornillo-hex-punta-calada-14x2-1-2-269</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/tornillo-hex-punta-calada-14x3-270</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/tornillo-hex-mecha-14x1-1-2-271</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/tornillo-hex-mecha-14x2-272</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/tornillo-hex-mecha-14x2-1-2-273</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/tornillo-hex-mecha-14x3-274</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/hormiguicida-hortal-polvo-250grs-275</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-hortal-liquido-60cc-276</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-hortal-liquido-120cc-277</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-hortal-liquido-250cc-278</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-geltek-gel-cucarachicida-x-12-gr-279</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-geltek-gel-hormiguicida-x-6-gr-280</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-manchester-fluido-350cc-281</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/pegarata-glue-traps-282</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/dr-bio-desengrasante-p-pozo-ciego-80grs-283</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-geltek-cebo-bloques-120gr-284</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/trampera-mata-rat-de-madera-caja-x20u-285</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/trampa-laucha-de-madera-mata-rat-286</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-hortal-mirex-x-100gr-287</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-geltek-cucarachic-6-estuches-cebo-en-cable-canal-288</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/raticida-ultra-plus-verde-30-uni-x-30-grs-1-8-kgs-289</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-manchester-fluido-700cc-290</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-holliday-ecthol-5-x-70cc-291</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-holliday-ecthol-5-x-120cc-292</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-fluido-triunfo-500cc-293</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ferreteriaayr.com/producto/veneno-super-flow-x-15cc-sachet-294</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

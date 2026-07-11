@@ -3,6 +3,7 @@ import { useParams, Link, useNavigate } from 'react-router-dom';
 import { Minus, Plus, MessageCircle, ChevronRight, ShoppingCart, Check } from 'lucide-react';
 import { products } from '../data/products';
 import { productSlug, idFromSlug } from '../utils/slug';
+import { formatPrice } from '../utils/format';
 import { useCart } from '../context/CartContext';
 import { useCatalog } from '../context/CatalogContext';
 import ProductCard from '../components/ProductCard';
@@ -17,6 +18,7 @@ const ProductDetail = () => {
   const { selectCategory } = useCatalog();
   const [qty, setQty] = useState(1);
   const [justAdded, setJustAdded] = useState(false);
+  const [selectedTier, setSelectedTier] = useState(null);
 
   const product = useMemo(() => {
     const id = idFromSlug(slug);
@@ -25,7 +27,8 @@ const ProductDetail = () => {
 
   useEffect(() => {
     setQty(1);
-  }, [slug]);
+    setSelectedTier(product?.priceTiers ? product.priceTiers[0] : null);
+  }, [slug, product]);
 
   if (!product) {
     return (
@@ -42,8 +45,22 @@ const ProductDetail = () => {
     .filter((p) => p.category === product.category && p.id !== product.id)
     .slice(0, 4);
 
+  const hasTiers = Boolean(product.priceTiers);
+  const isBoxTier = hasTiers && selectedTier && selectedTier.qty > 1;
+  const effectivePrice = hasTiers ? selectedTier?.price : product.price;
+  const effectiveQtyLabel = isBoxTier
+    ? `Caja x${selectedTier.qty} — cantidad: ${qty} caja${qty > 1 ? 's' : ''} (${selectedTier.qty * qty} unidades)`
+    : `cantidad: ${qty}`;
+
+  const unidadesTotales = isBoxTier ? selectedTier.qty * qty : qty;
+  const ticketTxt = product.codigoAyr
+    ? `\n\n— Para cargar en el sistema —\n${product.codigoAyr}\t${unidadesTotales}`
+    : '';
+
   const whatsappUrl = `https://wa.me/${PHONE}?text=${encodeURIComponent(
-    `Hola, me interesa el producto "${product.title}" (cantidad: ${qty}). ¿Me podrían pasar más información y precio?`
+    (effectivePrice
+      ? `Hola, me interesa el producto "${product.title}" (${formatPrice(effectivePrice)} c/u, ${effectiveQtyLabel}). ¿Está disponible?`
+      : `Hola, me interesa el producto "${product.title}" (${effectiveQtyLabel}). ¿Me podrían pasar más información y precio?`) + ticketTxt
   )}`;
 
   return (
@@ -75,6 +92,27 @@ const ProductDetail = () => {
             <h1>{product.title}</h1>
             <p className="product-detail-description">{product.description}</p>
 
+            {effectivePrice && <p className="product-detail-price">{formatPrice(effectivePrice)}{hasTiers && ' c/u'}</p>}
+
+            {hasTiers && (
+              <div className="product-detail-tiers">
+                {product.priceTiers.map((tier) => (
+                  <button
+                    key={tier.qty}
+                    type="button"
+                    className={`product-detail-tier${selectedTier?.qty === tier.qty ? ' product-detail-tier--active' : ''}`}
+                    onClick={() => {
+                      setSelectedTier(tier);
+                      setQty(1);
+                    }}
+                  >
+                    <span>{tier.qty === 1 ? 'Unidad' : `Caja x${tier.qty}`}</span>
+                    <strong>{formatPrice(tier.price)} c/u</strong>
+                  </button>
+                ))}
+              </div>
+            )}
+
             <div className="product-detail-actions">
               <div className="qty-selector">
                 <button onClick={() => setQty((q) => Math.max(1, q - 1))} aria-label="Restar">
@@ -85,11 +123,12 @@ const ProductDetail = () => {
                   <Plus size={16} />
                 </button>
               </div>
+              {isBoxTier && <span className="product-detail-tier-hint">caja{qty > 1 ? 's' : ''} de {selectedTier.qty} — {selectedTier.qty * qty} unidades</span>}
 
               <button
                 className="btn btn-primary product-detail-add"
                 onClick={() => {
-                  addToCart(product.id, qty);
+                  addToCart(product.id, isBoxTier ? qty * selectedTier.qty : qty, hasTiers ? selectedTier : null);
                   setJustAdded(true);
                   setTimeout(() => setJustAdded(false), 2500);
                 }}

@@ -108,12 +108,52 @@
   overflow: hidden;
 }
 
+.product-price {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 1.3rem;
+  color: var(--color-dark);
+  margin-bottom: 0.85rem;
+}
+
+.product-qty-selector {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  align-self: center;
+  background: var(--color-gray);
+  border-radius: 99px;
+  padding: 0.4rem 0.85rem;
+  margin-bottom: 0.75rem;
+}
+
+.product-qty-selector button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--color-text-muted);
+  display: flex;
+}
+
+.product-qty-selector button:hover {
+  color: var(--color-primary);
+}
+
+.product-qty-selector span {
+  font-weight: 700;
+  min-width: 1.2em;
+  text-align: center;
+}
+
 .product-cta {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
   width: 100%;
+  border: none;
+  cursor: pointer;
   background-color: var(--color-dark);
   color: #fff;
   font-family: var(--font-heading);
@@ -129,6 +169,19 @@
 .product-cta:hover {
   background-color: var(--color-primary);
   color: #111;
+}
+
+.product-cta-cart {
+  margin-bottom: 0.6rem;
+}
+
+.product-cta-whatsapp {
+  background-color: var(--color-whatsapp);
+}
+
+.product-cta-whatsapp:hover {
+  background-color: var(--color-whatsapp-dark);
+  color: #fff;
 }
 
 .mt-auto {
