@@ -11,7 +11,7 @@ export const categories = [
 export const products = [
   {
     id: 1,
-    price: 8599,
+    price: 9099,
     codigoAyr: "10022313",
     title: "Pintura Látex Interior-Exterior RioPint Blanca 1L",
     description: "Pintura de excelente poder cubritivo y terminación mate. Lavable y anti-hongos.",
@@ -21,7 +21,7 @@ export const products = [
   },
   {
     id: 2,
-    price: 15999,
+    price: 16999,
     codigoAyr: "10022688",
     title: "Pintura Látex Interior-Exterior RioPint Blanca 4L",
     description: "Pintura de excelente poder cubritivo y terminación mate. Lavable y anti-hongos.",
@@ -31,7 +31,7 @@ export const products = [
   },
   {
     id: 3,
-    price: 36999,
+    price: 39999,
     codigoAyr: "10022689",
     title: "Pintura Látex Interior-Exterior RioPint Blanca 10L",
     description: "Pintura de excelente poder cubritivo y terminación mate. Lavable y anti-hongos.",
@@ -41,7 +41,7 @@ export const products = [
   },
   {
     id: 4,
-    price: 73999,
+    price: 77999,
     codigoAyr: "10022690",
     title: "Pintura Látex Interior-Exterior RioPint Blanca 20L",
     description: "Pintura de excelente poder cubritivo y terminación mate. Lavable y anti-hongos.",
@@ -51,7 +51,7 @@ export const products = [
   }, 
   {
     id: 5,
-    price: 5099,
+    price: 5399,
     codigoAyr: "10022761",
     title: "Fijador Sellador RIoPint 1L",
     description: "El Sellador Fijador Al Agua es ideal para preparar paredes interiores y exteriores. Este sellador al agua concentrado sella, fija y uniforma la absorción de las superficies, facilitando la aplicación de la pintura de terminación y mejorando la adherencia en zonas entizadas o sobre materiales poco firmes. Con un acabado de preparación de la superficie, ofrece una cobertura aproximada de 15 m²/L y un tiempo de secado de 4 horas con una sola mano. Su base acuosa lo hace de fácil aplicación y no inflamable, garantizando seguridad y eficiencia. Además, es antihongos, asegurando una protección duradera.",
@@ -71,7 +71,7 @@ export const products = [
   },
   {
     id: 7,
-    price: 29999,
+    price: 31999,
     codigoAyr: "10022763",
     title: "Fijador Sellador RIoPint 10L",
     description: "El Sellador Fijador Al Agua es ideal para preparar paredes interiores y exteriores. Este sellador al agua concentrado sella, fija y uniforma la absorción de las superficies, facilitando la aplicación de la pintura de terminación y mejorando la adherencia en zonas entizadas o sobre materiales poco firmes. Con un acabado de preparación de la superficie, ofrece una cobertura aproximada de 15 m²/L y un tiempo de secado de 4 horas con una sola mano. Su base acuosa lo hace de fácil aplicación y no inflamable, garantizando seguridad y eficiencia. Además, es antihongos, asegurando una protección duradera.",
@@ -81,7 +81,7 @@ export const products = [
   },
   {
     id: 9,
-    price: 4099,
+    price: 4399,
     codigoAyr: "10022695",
     title: "Enduido Iterior RioPint 1L",
     description: "Riopint Enduído interior es un producto especialmente diseñado para corregir imperfecciones en paredes. Rellena fisuras, poros y grietas, posibilitando una terminación uniforme y perfectamente lisa. Su consistencia homogénea y cremosa permite una fácil aplicación, evitando irregularidades y grumos al momento de realizar retoques. De gran adherencia, rápido secado y excelente lijabilidad. Casablanca Enduído Exterior: Recomendado en superficies exteriores de mampostería o revoque.",
@@ -91,7 +91,7 @@ export const products = [
   },
   {
     id: 10,
-    price: 13999,
+    price: 14999,
     codigoAyr: "10022696",
     title: "Enduido Iterior RioPint 4L",
     description: "Riopint Enduído interior es un producto especialmente diseñado para corregir imperfecciones en paredes. Rellena fisuras, poros y grietas, posibilitando una terminación uniforme y perfectamente lisa. Su consistencia homogénea y cremosa permite una fácil aplicación, evitando irregularidades y grumos al momento de realizar retoques. De gran adherencia, rápido secado y excelente lijabilidad. Casablanca Enduído Exterior: Recomendado en superficies exteriores de mampostería o revoque.",
@@ -101,7 +101,7 @@ export const products = [
   },
   {
     id: 11,
-    price: 30999,
+    price: 32999,
     codigoAyr: "10022697",
     title: "Enduido Iterior RioPint 10L",
     description: "Riopint Enduído interior es un producto especialmente diseñado para corregir imperfecciones en paredes. Rellena fisuras, poros y grietas, posibilitando una terminación uniforme y perfectamente lisa. Su consistencia homogénea y cremosa permite una fácil aplicación, evitando irregularidades y grumos al momento de realizar retoques. De gran adherencia, rápido secado y excelente lijabilidad. Casablanca Enduído Exterior: Recomendado en superficies exteriores de mampostería o revoque.",
@@ -111,7 +111,7 @@ export const products = [
   },
   {
     id: 12,
-    price: 55999,
+    price: 59999,
     codigoAyr: "10022698",
     title: "Enduido Iterior RioPint 20L",
     description: "Riopint Enduído interior es un producto especialmente diseñado para corregir imperfecciones en paredes. Rellena fisuras, poros y grietas, posibilitando una terminación uniforme y perfectamente lisa. Su consistencia homogénea y cremosa permite una fácil aplicación, evitando irregularidades y grumos al momento de realizar retoques. De gran adherencia, rápido secado y excelente lijabilidad. Casablanca Enduído Exterior: Recomendado en superficies exteriores de mampostería o revoque.",
@@ -121,7 +121,7 @@ export const products = [
   },  
   { 
     id: 13,
-    price: 5599,
+    price: 6099,
     codigoAyr: "10022711",
     title: "Esmalte Sintetico Riolux 3 en 1 Convertidor Oxido 1/4L    NEGRO BRILLANTE",
     description: "Esmalte sintetico 3 en 1 RioPint Elaborado con resinas alquídicas de altísima calidad que le proporsionan al recubrimiento un inigualable brillo. Excelente nivelación y una máxima resistencia a los agentes atmosféricos. Formulado con aditivos especiales que previenen e inactivan la acción corrosiva. Es además un producto perfecto como promotor de adhesión para hierro y madera.",
@@ -131,7 +131,7 @@ export const products = [
   },
   { 
     id: 14,
-    price: 8299,
+    price: 8999,
     codigoAyr: "10022712",
     title: "Esmalte Sintetico Riolux 3 en 1 Convertidor Oxido 1/2L    NEGRO BRILLANTE",
     description: "Esmalte sintetico 3 en 1 RioPint Elaborado con resinas alquídicas de altísima calidad que le proporsionan al recubrimiento un inigualable brillo. Excelente nivelación y una máxima resistencia a los agentes atmosféricos. Formulado con aditivos especiales que previenen e inactivan la acción corrosiva. Es además un producto perfecto como promotor de adhesión para hierro y madera.",
@@ -141,7 +141,7 @@ export const products = [
   },
   {
       id: 15,
-    price: 12999,
+    price: 14999,
     codigoAyr: "10022713",
     title: "Esmalte Sintetico Riolux 3 en 1 Convertidor Oxido 1L NEGRO BRILLANTE",
     description: "Esmalte sintetico 3 en 1 RioPint Elaborado con resinas alquídicas de altísima calidad que le proporsionan al recubrimiento un inigualable brillo. Excelente nivelación y una máxima resistencia a los agentes atmosféricos. Formulado con aditivos especiales que previenen e inactivan la acción corrosiva. Es además un producto perfecto como promotor de adhesión para hierro y madera.",
@@ -151,7 +151,7 @@ export const products = [
   },
   { 
     id: 16,
-    price: 49999,
+    price: 53999,
     codigoAyr: "10022714",
     title: "Esmalte Sintetico Riolux 3 en 1 Convertidor Oxido 4L NEGRO BRILLANTE",
     description: "Esmalte sintetico 3 en 1 RioPint Elaborado con resinas alquídicas de altísima calidad que le proporsionan al recubrimiento un inigualable brillo. Excelente nivelación y una máxima resistencia a los agentes atmosféricos. Formulado con aditivos especiales que previenen e inactivan la acción corrosiva. Es además un producto perfecto como promotor de adhesión para hierro y madera.",
@@ -161,7 +161,7 @@ export const products = [
   },
   { 
       id: 17,
-    price: 6199,
+    price: 6699,
     codigoAyr: "10022699",
     title: "Esmalte Sintetico Riolux 3 en 1 Convertidor Oxido 1/4L BLANCO BRILLANTE",
     description: "Esmalte sintetico 3 en 1 RioPint Elaborado con resinas alquídicas de altísima calidad que le proporsionan al recubrimiento un inigualable brillo. Excelente nivelación y una máxima resistencia a los agentes atmosféricos. Formulado con aditivos especiales que previenen e inactivan la acción corrosiva. Es además un producto perfecto como promotor de adhesión para hierro y madera.",
@@ -171,7 +171,7 @@ export const products = [
   },
   { 
     id: 18,
-    price: 9399,
+    price: 9999,
     codigoAyr: "10022700",
     title: "Esmalte Sintetico Riolux 3 en 1 Convertidor Oxido 1/2L BLANCO BRILLANTE",
     description: "Esmalte sintetico 3 en 1 RioPint Elaborado con resinas alquídicas de altísima calidad que le proporsionan al recubrimiento un inigualable brillo. Excelente nivelación y una máxima resistencia a los agentes atmosféricos. Formulado con aditivos especiales que previenen e inactivan la acción corrosiva. Es además un producto perfecto como promotor de adhesión para hierro y madera.",
@@ -181,7 +181,7 @@ export const products = [
   },
   { 
     id: 19,
-    price: 15999,
+    price: 16999,
     codigoAyr: "10022701",
     title: "Esmalte Sintetico Riolux 3 en 1 Convertidor Oxido 1L   BLANCO BRILLANTE",
     description: "Esmalte sintetico 3 en 1 RioPint Elaborado con resinas alquídicas de altísima calidad que le proporsionan al recubrimiento un inigualable brillo. Excelente nivelación y una máxima resistencia a los agentes atmosféricos. Formulado con aditivos especiales que previenen e inactivan la acción corrosiva. Es además un producto perfecto como promotor de adhesión para hierro y madera.",
@@ -191,7 +191,7 @@ export const products = [
   },
   { 
     id: 20,
-    price: 58999,
+    price: 63999,
     codigoAyr: "10022702",
     title: "Esmalte Sintetico Riolux 3 en 1 Convertidor Oxido 4L BLANCO BRILLANTE",
     description: "Esmalte sintetico 3 en 1 RioPint Elaborado con resinas alquídicas de altísima calidad que le proporsionan al recubrimiento un inigualable brillo. Excelente nivelación y una máxima resistencia a los agentes atmosféricos. Formulado con aditivos especiales que previenen e inactivan la acción corrosiva. Es además un producto perfecto como promotor de adhesión para hierro y madera.",
@@ -201,7 +201,7 @@ export const products = [
   },  
   { 
     id: 21,
-    price: 6399,
+    price: 6799,
     codigoAyr: "10022845",
     title: "Membrana Liquida Impermiabilizante 1L Blanco",
     description: "Membrana Impermeabilizante Liquida Base Acuosa. Excelente Flexibilidad y Dilatación ante los cambios de temperatura evitando las fisuras. No Transitable, Protección Térmica en especial el color blanco. Tipo de Superficies a tratar: Muros Medianeros, revoques, carpetas cementicias, baldosas de azotea, fibrocemento, chapas galvanizadas, plásticas, membrana asfáltica. Aplicación con rodillo y/o pinceleta.",
@@ -211,7 +211,7 @@ export const products = [
   }, 
   { 
     id: 22,
-    price: 22999,
+    price: 23999,
     codigoAyr: "10022846",
     title: "Membrana Liquida Impermiabilizante 4L Blanco",
     description: "Membrana Impermeabilizante Liquida Base Acuosa. Excelente Flexibilidad y Dilatación ante los cambios de temperatura evitando las fisuras. No Transitable, Protección Térmica en especial el color blanco. Tipo de Superficies a tratar: Muros Medianeros, revoques, carpetas cementicias, baldosas de azotea, fibrocemento, chapas galvanizadas, plásticas, membrana asfáltica. Aplicación con rodillo y/o pinceleta.",
@@ -221,7 +221,7 @@ export const products = [
   }, 
   { 
     id: 23,
-    price: 53999,
+    price: 57999,
     codigoAyr: "10022847",
     title: "Membrana Liquida Impermiabilizante 10L Blanco",
     description: "Membrana Impermeabilizante Liquida Base Acuosa. Excelente Flexibilidad y Dilatación ante los cambios de temperatura evitando las fisuras. No Transitable, Protección Térmica en especial el color blanco. Tipo de Superficies a tratar: Muros Medianeros, revoques, carpetas cementicias, baldosas de azotea, fibrocemento, chapas galvanizadas, plásticas, membrana asfáltica. Aplicación con rodillo y/o pinceleta.",
@@ -241,7 +241,7 @@ export const products = [
   },
   { 
       id: 25,
-    price: 5199,
+    price: 5599,
     codigoAyr: "10022691",
     title: "Barniz Interior Exterior RioPint 1/4L  BRILLANTE",
     description: "PROTEGE Y EMBELLECE TODO TIPO DE MADERAS, Muy Brillante. Deja una película que realza las cualidades de la madera, autonivelante con protección antirrayas.",
@@ -251,7 +251,7 @@ export const products = [
   },
   { 
     id: 26,
-    price: 7499,
+    price: 8099,
     codigoAyr: "10022692",
     title: "Barniz Interior Exterior RioPint 1/2L  BRILLANTE",
     description: "PROTEGE Y EMBELLECE TODO TIPO DE MADERAS, Muy Brillante. Deja una película que realza las cualidades de la madera, autonivelante con protección antirrayas.",
@@ -261,7 +261,7 @@ export const products = [
   },
   { 
     id: 27,
-    price: 10999,
+    price: 11999,
     codigoAyr: "10022693",
     title: "Barniz Interior Exterior RioPint 1L  BRILLANTE",
     description: "PROTEGE Y EMBELLECE TODO TIPO DE MADERAS, Muy Brillante. Deja una película que realza las cualidades de la madera, autonivelante con protección antirrayas.",
@@ -271,7 +271,7 @@ export const products = [
   },
   { 
     id: 28,
-    price: 40999,
+    price: 43999,
     codigoAyr: "10022694",
     title: "Barniz Interior Exterior RioPint 4L  BRILLANTE",
     description: "PROTEGE Y EMBELLECE TODO TIPO DE MADERAS, Muy Brillante. Deja una película que realza las cualidades de la madera, autonivelante con protección antirrayas.",
@@ -281,7 +281,7 @@ export const products = [
   },            
   {
     id: 29,
-    price: 5099,
+    price: 6499,
     codigoAyr: "10018938",
     title: "Aerosoles Pintura kuwait convertidor 3-1 225cm3",
     description: "Protege contra la corrosión, neutraliza el óxido existente y otorga terminación estética en un solo paso.",
@@ -291,7 +291,7 @@ export const products = [
   },
   {
     id: 30,
-    price: 9699,
+    price: 11999,
     codigoAyr: "10018960",
     title: "Aerosoles Pintura kuwait fluo 225cm3",
     description: "Protege contra la corrosión, neutraliza el óxido existente y otorga terminación estética en un solo paso.",
@@ -301,7 +301,7 @@ export const products = [
   },
   {
     id: 31,
-    price: 7799,
+    price: 9899,
     codigoAyr: "10018965",
     title: "Aerosoles Pintura kuwait Metalizado 225cm3",
     description: "Protege contra la corrosión, neutraliza el óxido existente y otorga terminación estética en un solo paso.",
@@ -311,7 +311,7 @@ export const products = [
   },
   {
     id: 32,
-    price: 46999,
+    price: 48999,
     codigoAyr: "10022772",
     title: "Pintura Al Agua Para Piscina Pileta Riopint 4 Lts",
     description: "De fácil aplicación y diluíble con agua,Excelente adherencia,Buen poder Cubritivo,Resistencia a los hongos, mohos y algas",
@@ -985,7 +985,7 @@ export const products = [
   },
   {
     id: 101,
-    price: 3699,
+    price: 4699,
     codigoAyr: "10019469",
     title: "Ramal 45° PVC 63mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -1025,7 +1025,7 @@ export const products = [
   },
   {
     id: 105,
-    price: 3799,
+    price: 4799,
     codigoAyr: "10019476",
     title: "Ramal 90° PVC 63mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -1105,7 +1105,7 @@ export const products = [
   },
   {
     id: 115,
-    price: 2899,
+    price: 3699,
     codigoAyr: "10017109",
     title: "Acople de Compresión DUKE 1/2 Pulgada",
     description: "Eficiencia y durabilidad con el Acople Compresor DUKE. Diseñado para profesionales, ideal para trabajos de compresión exigentes. Asegura un ajuste perfecto y una operación sin fugas, aumentando la eficiencia de tu trabajo.",
@@ -1125,7 +1125,7 @@ export const products = [
   },
   {
     id: 117,
-    price: 4399,
+    price: 5699,
     codigoAyr: "10015777",
     title: "Acople de Compresión DUKE 1 Pulgada",
     description: "Eficiencia y durabilidad con el Acople Compresor DUKE. Diseñado para profesionales, ideal para trabajos de compresión exigentes. Asegura un ajuste perfecto y una operación sin fugas, aumentando la eficiencia de tu trabajo.",
@@ -1135,7 +1135,7 @@ export const products = [
   },
   {
     id: 118,
-    price: 399999,
+    price: 539999,
     codigoAyr: "10022686",
     title: "Rotomartillo Makita HR2470 azul con 780W",
     description: "Con presencial mundial es más de 50 países, Makita es líder en innovación al producir herramientas tecnológicas y de alta calidad. Los productos que desarrolla son amigables para sus usuarios y el medioambiente.",
@@ -1144,7 +1144,7 @@ export const products = [
   },
   {
     id: 119,
-    price: 289999,
+    price: 339999,
     codigoAyr: "10018643",
     title: "Rotomartillo Skil 1859 Mandril Mechas Cinceles Rotopercutor",
     description: "Rotomartillo SDS Plus 750W 2.1J Skil 1859. El Skil 1859 es un rotomartillo profesional diseñado para tareas exigentes. Equipado con un potente motor de 750W, ofrece gran versatilidad con tres modos de aplicación: perforación con impacto, perforación sin impacto y cincelado. Su diseño robusto y funcional lo hace ideal para profesionales que necesitan herramientas confiables y de alto rendimiento.",
@@ -1153,7 +1153,7 @@ export const products = [
   },
   {
     id: 120,
-    price: 99999,
+    price: 129999,
     codigoAyr: "10018633",
     title: "Rotomartillo Nebraska NEMERM26 800W",
     description: "Potencia, rendimiento y versatilidad en una sola herramienta. El rotomartillo Nebraska SDS Plus de 850W está diseñado para trabajos exigentes en concreto, mampostería, madera y metal, brindando perforaciones precisas y gran capacidad de impacto.",
@@ -1162,7 +1162,7 @@ export const products = [
   },
   {
     id: 121,
-    price: 92999,
+    price: 99999,
     codigoAyr: "10018642",
     title: "Lijadora Orbital Skil 7232 Negra 200W",
     description: "Lijadora orbital de palma eléctrica equipada con un potente motor de 200 Watts con bajo nivel de vibración. Fácil cambio de papel de lija con sistema de grapado, que permite cambiar el papel de lija sin rasgarlo. Interruptor sellado internamente, lo que dificulta la entrada de polvo dentro de la máquina para una mayor durabilidad.",
@@ -1171,7 +1171,7 @@ export const products = [
   },
   {
     id: 122,
-    price: 68999,
+    price: 96999,
     codigoAyr: "10022841",
     title: "Amoladora Angular Nebraska Nemea115850 115mm 850W",
     description: "La Amoladora Angular Nebraska Nemea115850 es una herramienta esencial para profesionales y aficionados al bricolaje que buscan calidad y rendimiento. Con un potente motor de 850W, esta amoladora angular permite realizar cortes precisos y eficientes gracias a su capacidad para discos de 115 mm. Su velocidad de vacío de 12.000 RPM asegura un acabado perfecto en cada proyecto. Diseñada con un gatillo paleta, ofrece un manejo cómodo y seguro, asegurando que puedas trabajar durante períodos prolongados sin fatiga.",
@@ -1180,7 +1180,7 @@ export const products = [
   },
   {
     id: 123,
-    price: 91999,
+    price: 99999,
     codigoAyr: "10022842",
     title: "Amoladora Bosch GWS 700 Professional 710W 115mm",
     description: "La Amoladora Angular Bosch GWS 700 Professional 710W – 115 mm es una herramienta robusta, confiable y eficiente, diseñada para quienes necesitan resultados profesionales todos los días. Equipada con un motor de 710 W, ofrece la potencia justa para realizar cortes, desbastes y pulidos con precisión y constancia, alcanzando hasta 12.000 RPM. Utiliza discos de 115 mm, el formato más usado del mercado, lo que garantiza amplia compatibilidad con accesorios.",
@@ -1189,7 +1189,7 @@ export const products = [
   },
   {
     id: 124,
-    price: 139999,
+    price: 169999,
     codigoAyr: "10015681",
     title: "Sierra Circular Nebraska Professional 1750W Nemesc10185",
     description: "Herramienta potente y precisa, ideal para cortes rectos en madera y trabajos de carpintería, construcción y mantenimiento. Su motor de alta potencia permite un rendimiento constante incluso en tareas exigentes.",
@@ -1198,7 +1198,7 @@ export const products = [
   },
   {
     id: 125,
-    price: 90999,
+    price: 119999,
     codigoAyr: "10018636",
     title: "Fresadora Router de Mano 6mm/1/4\" 650W Nemer012",
     description: "Fresadora Router de mano para uso profesional. Capacidad 1/4'' y 6mm (incluye ambas pinzas). Potencia: 650W. Agarre ergonómico para mayor precisión en los trabajos. Estructura reforzada que otorga mayor vida útil a la herramienta.",
@@ -1207,7 +1207,7 @@ export const products = [
   },
   {
     id: 126,
-    price: 119999,
+    price: 149999,
     codigoAyr: "10022760",
     title: "Taladro Percutor Atornillador Bosch GSB450RE 450W 10mm",
     description: "Convertite en un verdadero profesional con el taladro Percutor BOSCH GSB 450 RE, diseñado con un modelo compacto y robusto al mismo tiempo que hace más cómodo el trabajo. Cuenta con 450 watts de potencia y posee un resistente mandril en metal de alta calidad (10 mm). Con el taladro Percutor BOSCH GSB 450 podés elegir perforar con o sin percusión con el botón conmutador, además posee una tecla de doble bloqueo que facilita los trabajos continuados. ¡Súper cómodo!",
@@ -1216,7 +1216,7 @@ export const products = [
   },
   {
     id: 127,
-    price: 149999,
+    price: 169999,
     codigoAyr: "10022755",
     title: "Nivel Láser Bosch GLL 2-12 con Bolsa Protectora",
     description: "Este nivel láser Bosch GLL 2-12 proyecta líneas sobre la superficie que te resultarán de utilidad para aplicaciones comunes de nivelación y alineación como colocación de cuadros, pisos, carpintería, entre otros. Alcance de 12 metros y precisión de 0.8mm, autonivelante. Una herramienta imprescindible para realizar cualquier tipo de trabajo de precisión. Utilizalo en tu hogar para instalar muebles o en tu espacio laboral para realizar tareas de mayor complejidad y alcanzá resultados de máxima exactitud.",
@@ -1234,7 +1234,7 @@ export const products = [
   },
   {
     id: 129,
-    price: 71999,
+    price: 69999,
     codigoAyr: "10017161",
     title: "Pistola de Calor Nebraska Nemepc2000 2000W",
     description: "La pistola de calor Nebraska NEMEPC2000 es una herramienta esencial para quienes buscan eficiencia y versatilidad en sus proyectos. Con una potencia de 2000W, permite alcanzar temperaturas que oscilan entre 380°C y 500°C, adaptándose a diversas aplicaciones, desde trabajos de bricolaje hasta tareas más complejas. Su diseño ergonómico y empuñadura antideslizante garantizan un manejo cómodo y seguro, incluso durante largas jornadas de trabajo. Incluye cuatro boquillas y un raspador, lo que la convierte en una opción completa para quienes requieren diferentes tipos de acabados y técnicas.",
@@ -1243,7 +1243,7 @@ export const products = [
   },
   {
     id: 130,
-    price: 94999,
+    price: 109999,
     codigoAyr: "10018640",
     title: "Sierra Caladora Skil 4380 380W Negro",
     description: "Sierra caladora Skil 4380 de 380 Watts. Cuenta con diseño ergonómico, amplio gatillo de accionamiento e interruptor de bloqueo apto para diestros y zurdos. El sistema de fijación de cuchillas opera mediante un tornillo tipo allen, complementado con un soporte y cursor robusto. La placa base permite la regulación de la inclinación hasta 45º hacia ambos lados, facilitando cortes precisos en ángulos de 15º, 30º y 45º.",
@@ -1252,7 +1252,7 @@ export const products = [
   },
   {
     id: 131,
-    price: 99999,
+    price: 119999,
     codigoAyr: "10018639",
     title: "Taladro Percusión Skil 6604jb 570W Mandril 10mm",
     description: "El Taladro de impacto Skil posee 570 Watts de potencia, es liviano y compacto. El mandril metálico de 1/2\" (13 milímetros) es robusto para las aplicaciones diarias. Su motor cuenta con rodamiento para mayor durabilidad. Posee interruptor de velocidad variable electrónico para realizar perforaciones y atornillados en diversos materiales, y es reversible para facilitar los desatornillados.",
@@ -1261,7 +1261,7 @@ export const products = [
   },
   {
     id: 132,
-    price: 88999,
+    price: 109999,
     codigoAyr: "10016623",
     title: "Sierra Caladora Nebraska NEMECA07550 550W",
     description: "Precisión y potencia en tus manos. Potencia de 550W para cortes precisos y eficientes. Velocidad variable no ajustable con rango de 600-2600 rpm para adaptarse a diferentes materiales y aplicaciones. Capacidad de corte de 65mm para manejar materiales de diferentes espesores. Diseño ergonómico para un manejo cómodo y seguro. Peso ligero de 1,5 kg para reducir la fatiga y mejorar la maniobrabilidad.",
@@ -1279,7 +1279,7 @@ export const products = [
   },
   {
     id: 134,
-    price: 269999,
+    price: 329999,
     codigoAyr: "10022727",
     title: "Soldadora Inverter Laser MMA-160 Monofásica 160A",
     description: "La Soldadora Inverter 160A Laser Discovery 225 es una herramienta esencial para profesionales y aficionados de la soldadura. Diseñada con una tensión eléctrica monofásica de 220V y una frecuencia de 50Hz, ofrece una corriente de salida ajustable entre 30 y 160 A, ideal para trabajar con electrodos de hasta 3.25 mm. Su ciclo de servicio del 40% y eficiencia del 80% garantizan un rendimiento óptimo en cada proyecto.",
@@ -1324,7 +1324,7 @@ export const products = [
   },
   {
     id: 139,
-    price: 38999,
+    price: 53999,
     codigoAyr: "10022756",
     title: "Canilla Grifería de Cocina Flexible Monocomando GR13 Negro Cromado",
     description: "El Grifo de Cocina Monocomando GR13 en color negro con acabado cromado es la elección perfecta para quienes buscan funcionalidad y estilo en su cocina. Su diseño moderno y elegante se adapta a cualquier decoración, aportando un toque contemporáneo a tu espacio. Fabricado en metal de alta calidad, este grifo cuenta con un control monocomando que permite ajustar fácilmente la temperatura y el flujo de agua con una sola mano, facilitando las tareas en la cocina. Su canilla flexible y su capacidad de giro hacen que sea ideal para llenar ollas y recipientes de diferentes tamaños, optimizando el tiempo y el esfuerzo en la preparación de tus comidas.",
@@ -1372,7 +1372,7 @@ export const products = [
   },
   {
     id: 144,
-    price: 159999,
+    price: 229999,
     codigoAyr: "10016639",
     title: "Hidrolavadora Nebraska Nemehl1200 1200W",
     description: "La Hidrolavadora Nemehl1200 de Nebraska es la herramienta ideal para mantener la limpieza de tus vehículos, hogares y diversas superficies. Con una potente potencia de 1200W y una presión máxima de 90 bar, permite eliminar la suciedad más difícil de manera eficiente. Su caudal nominal de 5 L/min garantiza un lavado efectivo sin gastar agua innecesariamente. Gracias a su sistema Auto-Stop, se optimiza el consumo energético y se alarga la vida útil del equipo. Con un peso de solo 5,2 kg, es fácil de transportar y guardar. Frecuencia 50-60Hz.",
@@ -1381,7 +1381,7 @@ export const products = [
   },
   {
     id: 145,
-    price: 70999,
+    price: 90999,
     codigoAyr: "10018635",
     title: "Lijadora Orbital Nebraska Nemelo10170 170W",
     description: "La lijadora de palma orbital es una herramienta eléctrica diseñada para el acabado de superficies mediante un movimiento vibratorio. El equipo opera con un motor de 170W que alcanza una velocidad en vacío de 14.000 rpm. Su sistema de propulsión emplea tecnología con escobillas y se alimenta mediante conexión a corriente doméstica a una frecuencia de 50Hz.",
@@ -1390,7 +1390,7 @@ export const products = [
   },
   {
     id: 146,
-    price: 85999,
+    price: 86999,
     codigoAyr: "7105251",
     title: "Bordeadora Eléctrica Gamma 300W Corte 22cm",
     description: "Bordeadora de césped Gamma G3079AR 300W 220V. Producto diseñado para uso doméstico, para bordear y cortar el césped en espacios pequeños. Fácil de transportar, cómoda con apoyo de muñeca para su mejor manejo. Incluye protector de seguridad, empuñadura oval y eje curvo. Corte de 22cm.",
@@ -1779,7 +1779,7 @@ export const products = [
   },
   {
     id: 185,
-    price: 809,
+    price: 849,
     codigoAyr: "10022896",
     title: "Niple 10 cm PPN 3/4",
     description: "Los accesorios de polipropileno (PPN) son componentes plásticos roscados diseñados para el armado de sistemas de distribución de agua fría y caliente en redes domiciliarias e industriales. Se caracterizan por su alta resistencia, durabilidad, excelente acabado interno que evita incrustaciones de sarro, y su sistema de unión a rosca que permite un ensamblado firme sin necesidad de soldaduras. Caños y tuberías tricapa de alta resistencia.",
@@ -1929,7 +1929,7 @@ export const products = [
   },
   {
     id: 200,
-    price: 4099,
+    price: 4299,
     codigoAyr: "10019608",
     title: "Codo Rosca H 25 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1979,7 +1979,7 @@ export const products = [
   },
   {
     id: 206,
-    price: 4099,
+    price: 4299,
     codigoAyr: "10019608",
     title: "Codo Rosca M 25 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2079,7 +2079,7 @@ export const products = [
   },
   {
     id: 216,
-    price: 2799,
+    price: 2999,
     codigoAyr: "10019618",
     title: "Cupla Rosca H 20 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2099,7 +2099,7 @@ export const products = [
   },
   {
     id: 219,
-    price: 4099,
+    price: 4399,
     codigoAyr: "10019622",
     title: "Cupla Rosca H 25 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2119,7 +2119,7 @@ export const products = [
   },
   {
     id: 221,
-    price: 3499,
+    price: 3799,
     codigoAyr: "10019625",
     title: "Cupla Rosca M 20 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2349,7 +2349,7 @@ export const products = [
   },
   {
     id: 245,
-    price: 6299,
+    price: 6599,
     codigoAyr: "10020884",
     title: "Boquillas Termofusión 20",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2359,7 +2359,7 @@ export const products = [
   },
   {
     id: 246,
-    price: 8599,
+    price: 8899,
     codigoAyr: "10020885",
     title: "Boquillas Termofusión 25",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2369,7 +2369,7 @@ export const products = [
   },
   {
     id: 247,
-    price: 10999,
+    price: 11999,
     codigoAyr: "10020886",
     title: "Boquillas Termofusión 32",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2419,7 +2419,7 @@ export const products = [
   },
   {
     id: 252,
-    price: 1999,
+    price: 8199,
     codigoAyr: "10015718",
     title: "Corrugado Flexible 40/50 Duke",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2764,7 +2764,7 @@ export const products = [
   },
   {
     id: 286,
-    price: 2199,
+    price: 2699,
     codigoAyr: "10016889",
     title: "Trampa Laucha de Madera Mata-Rat",
     description: "Trampa de madera para lauchas y ratones, mecanismo de resorte de accion rapida y reutilizable.",
