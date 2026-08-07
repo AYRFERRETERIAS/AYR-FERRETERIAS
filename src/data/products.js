@@ -1289,7 +1289,7 @@ export const products = [
   {
     id: 135,
     price: 19999,
-    codigoAyr: "10018143",
+    codigoAyr: "10022995",
     title: "Calefón Eléctrico Diluvio 20L Plástico Negro 1.1Kw",
     description: "El Calentador Calefón Eléctrico Plástico 20l Diluvio Eco Negro es la solución ideal para quienes buscan comodidad y eficiencia en su hogar. Diseñado para colgar, este modelo de 20 litros ofrece un rendimiento óptimo en espacios reducidos, permitiendo disfrutar de duchas cálidas sin complicaciones. Su construcción en plástico garantiza durabilidad y resistencia, adaptándose a diferentes estilos de baño. Con un solo nivel de temperatura, este calefón es fácil de usar, brindando agua caliente de manera rápida y efectiva.",
     category: "Artículos para el hogar",
@@ -1306,8 +1306,8 @@ export const products = [
   },
   {
     id: 137,
-    price: 259999,
-    codigoAyr: "10022791",
+    price: 239999,
+    codigoAyr: "10023058",
     title: "Llave de Impacto a Batería 20V Brushless Ingco 500Nm",
     description: "¡Potencia sin límites con la Llave de Impacto Inalámbrica INGCO 500Nm! Esta bestia inalámbrica te brinda la potencia que necesitas para afrontar cualquier desafío con la máxima libertad. Sentí la adrenalina de dominar cada tornillo, tuerca o perno con su impresionante torque de 500Nm. Su motor brushless te garantiza un rendimiento superior, mayor durabilidad y una vida útil más larga. Incluye 3 tubos. ¡Olvidate de las limitaciones y llevá tus proyectos al siguiente nivel!",
     category: "Herramientas Eléctricas",
