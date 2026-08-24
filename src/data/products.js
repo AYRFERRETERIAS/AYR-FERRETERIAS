@@ -1135,7 +1135,7 @@ export const products = [
   },
   {
     id: 118,
-    price: 548900,
+    price: 630900,
     codigoAyr: "10022686",
     title: "Rotomartillo Makita HR2470 azul con 780W",
     description: "Con presencial mundial es más de 50 países, Makita es líder en innovación al producir herramientas tecnológicas y de alta calidad. Los productos que desarrolla son amigables para sus usuarios y el medioambiente.",
@@ -1162,7 +1162,7 @@ export const products = [
   },
   {
     id: 121,
-    price: 107900,
+    price: 124900,
     codigoAyr: "10018642",
     title: "Lijadora Orbital Skil 7232 Negra 200W",
     description: "Lijadora orbital de palma eléctrica equipada con un potente motor de 200 Watts con bajo nivel de vibración. Fácil cambio de papel de lija con sistema de grapado, que permite cambiar el papel de lija sin rasgarlo. Interruptor sellado internamente, lo que dificulta la entrada de polvo dentro de la máquina para una mayor durabilidad.",
@@ -1180,7 +1180,7 @@ export const products = [
   },
   {
     id: 123,
-    price: 108900,
+    price: 98590,
     codigoAyr: "10022842",
     title: "Amoladora Bosch GWS 700 Professional 710W 115mm",
     description: "La Amoladora Angular Bosch GWS 700 Professional 710W – 115 mm es una herramienta robusta, confiable y eficiente, diseñada para quienes necesitan resultados profesionales todos los días. Equipada con un motor de 710 W, ofrece la potencia justa para realizar cortes, desbastes y pulidos con precisión y constancia, alcanzando hasta 12.000 RPM. Utiliza discos de 115 mm, el formato más usado del mercado, lo que garantiza amplia compatibilidad con accesorios.",
@@ -1243,7 +1243,7 @@ export const products = [
   },
   {
     id: 130,
-    price: 109900,
+    price: 126900,
     codigoAyr: "10018640",
     title: "Sierra Caladora Skil 4380 380W Negro",
     description: "Sierra caladora Skil 4380 de 380 Watts. Cuenta con diseño ergonómico, amplio gatillo de accionamiento e interruptor de bloqueo apto para diestros y zurdos. El sistema de fijación de cuchillas opera mediante un tornillo tipo allen, complementado con un soporte y cursor robusto. La placa base permite la regulación de la inclinación hasta 45º hacia ambos lados, facilitando cortes precisos en ángulos de 15º, 30º y 45º.",
