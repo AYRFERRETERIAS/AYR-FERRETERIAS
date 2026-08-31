@@ -321,7 +321,7 @@ export const products = [
   },      
   {
     id: 34,
-    price: 10590,
+    price: 14690,
     codigoAyr: "10021511",
     title: "Cerradura Prive 102",
     description: "Cerraduras Prive es una marca argentina líder con más de 90 años de trayectoria. Sus productos se destacan por su alta resistencia, durabilidad y excelente relación costo-beneficio.",
@@ -330,7 +330,7 @@ export const products = [
   },
   {
     id: 35,
-    price: 26890,
+    price: 27990,
     codigoAyr: "10021520",
     title: "Cerradura Prive 200",
     description: "Cerraduras Prive es una marca argentina líder con más de 90 años de trayectoria. Sus productos se destacan por su alta resistencia, durabilidad y excelente relación costo-beneficio.",
@@ -339,7 +339,7 @@ export const products = [
   },
   {
     id: 36,
-    price: 20490,
+    price: 27490,
     codigoAyr: "10021530",
     title: "Cerradura Prive 207",
     description: "Cerraduras Prive es una marca argentina líder con más de 90 años de trayectoria. Sus productos se destacan por su alta resistencia, durabilidad y excelente relación costo-beneficio.",
@@ -348,7 +348,7 @@ export const products = [
   },
   {
     id: 37,
-    price: 26490,
+    price: 27790,
     codigoAyr: "10021531",
     title: "Cerradura Prive 208",
     description: "Cerraduras Prive es una marca argentina líder con más de 90 años de trayectoria. Sus productos se destacan por su alta resistencia, durabilidad y excelente relación costo-beneficio.",
@@ -357,7 +357,7 @@ export const products = [
   },
   {
     id: 38,
-    price: 25790,
+    price: 27090,
     codigoAyr: "10021533",
     title: "Cerradura Prive 210",
     description: "Cerraduras Prive es una marca argentina líder con más de 90 años de trayectoria. Sus productos se destacan por su alta resistencia, durabilidad y excelente relación costo-beneficio.",
@@ -366,7 +366,7 @@ export const products = [
   },
   {
     id: 39,
-    price: 35090,
+    price: 37190,
     codigoAyr: "10021535",
     title: "Cerradura Prive 212",
     description: "Cerraduras Prive es una marca argentina líder con más de 90 años de trayectoria. Sus productos se destacan por su alta resistencia, durabilidad y excelente relación costo-beneficio.",
@@ -375,7 +375,7 @@ export const products = [
   },
   {
     id: 40,
-    price: 45390,
+    price: 50490,
     codigoAyr: "10021537",
     title: "Cerradura Prive 214",
     description: "Cerraduras Prive es una marca argentina líder con más de 90 años de trayectoria. Sus productos se destacan por su alta resistencia, durabilidad y excelente relación costo-beneficio.",
@@ -385,7 +385,7 @@ export const products = [
 
   {
     id: 41,
-    price: 15490,
+    price: 15990,
     codigoAyr: "10019252",
     title: "Caño Awaduct 40mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -395,7 +395,7 @@ export const products = [
   },
   {
     id: 42,
-    price: 7009,
+    price: 7229,
     codigoAyr: "10019253",
     title: "Caño Awaduct 50mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -405,7 +405,7 @@ export const products = [
   },
   {
     id: 43,
-    price: 9029,
+    price: 9319,
     codigoAyr: "10019255",
     title: "Caño Awaduct 63mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -415,7 +415,7 @@ export const products = [
   },
   {
     id: 44,
-    price: 29190,
+    price: 30090,
     codigoAyr: "10019258",
     title: "Caño Awaduct 110mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -425,7 +425,7 @@ export const products = [
   },
   {
     id: 45,
-    price: 1489,
+    price: 1689,
     codigoAyr: "10019221",
     title: "Codo Awaduct 40mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -435,7 +435,7 @@ export const products = [
   },
   {
     id: 46,
-    price: 2069,
+    price: 2349,
     codigoAyr: "10019222",
     title: "Codo Awaduct 50mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -445,7 +445,7 @@ export const products = [
   },
   {
     id: 47,
-    price: 3319,
+    price: 3429,
     codigoAyr: "10019223",
     title: "Codo Awaduct 63mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -455,7 +455,7 @@ export const products = [
   },
   {
     id: 48,
-    price: 6589,
+    price: 6799,
     codigoAyr: "10021702",
     title: "Codo Awaduct 110mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -465,7 +465,7 @@ export const products = [
   },
   {
     id: 49,
-    price: 1489,
+    price: 1689,
     codigoAyr: "10019221",
     title: "Codo 45° Awaduct 40mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -475,7 +475,7 @@ export const products = [
   },
   {
     id: 50,
-    price: 2069,
+    price: 2349,
     codigoAyr: "10019222",
     title: "Codo 45° Awaduct 50mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -485,7 +485,7 @@ export const products = [
   },
   {
     id: 51,
-    price: 3319,
+    price: 3429,
     codigoAyr: "10019223",
     title: "Codo 45° Awaduct 63mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -495,7 +495,7 @@ export const products = [
   },
   {
     id: 52,
-    price: 6059,
+    price: 6259,
     codigoAyr: "10019224",
     title: "Codo 45° Awaduct 110mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -505,7 +505,7 @@ export const products = [
   },
   {
     id: 53,
-    price: 1649,
+    price: 1869,
     codigoAyr: "10022888",
     title: "Curva 90° Awaduct 40mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -515,7 +515,7 @@ export const products = [
   },
   {
     id: 54,
-    price: 2189,
+    price: 2479,
     codigoAyr: "10022889",
     title: "Curva 90° Awaduct 50mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -525,7 +525,7 @@ export const products = [
   },
   {
     id: 55,
-    price: 3879,
+    price: 3999,
     codigoAyr: "10022890",
     title: "Curva 90° Awaduct 63mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -535,7 +535,7 @@ export const products = [
   },
   {
     id: 56,
-    price: 9879,
+    price: 10190,
     codigoAyr: "10022081",
     title: "Curva 90° Awaduct 110mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -545,7 +545,7 @@ export const products = [
   },
   {
     id: 57,
-    price: 1929,
+    price: 2189,
     codigoAyr: "10019233",
     title: "Mango Reparador Awaduct 40mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -555,7 +555,7 @@ export const products = [
   },
   {
     id: 58,
-    price: 2119,
+    price: 2409,
     codigoAyr: "10019234",
     title: "Mango Reparador Awaduct 50mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -565,7 +565,7 @@ export const products = [
   },
   {
     id: 59,
-    price: 2819,
+    price: 2909,
     codigoAyr: "10019235",
     title: "Mango Reparador Awaduct 63mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -575,7 +575,7 @@ export const products = [
   },
   {
     id: 60,
-    price: 6269,
+    price: 6469,
     codigoAyr: "10019232",
     title: "Mango Reparador Awaduct 110mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -585,7 +585,7 @@ export const products = [
   },
   {
     id: 61,
-    price: 18790,
+    price: 19390,
     codigoAyr: "10021698",
     title: "Pileta de Patio Awaduct",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -595,7 +595,7 @@ export const products = [
   },
   {
     id: 62,
-    price: 3599,
+    price: 4089,
     codigoAyr: "10022071",
     title: "Ramal 45° Awaduct 40mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -605,7 +605,7 @@ export const products = [
   },
   {
     id: 63,
-    price: 4829,
+    price: 4979,
     codigoAyr: "10022072",
     title: "Ramal 45° Awaduct 50mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -615,7 +615,7 @@ export const products = [
   },
   {
     id: 64,
-    price: 6569,
+    price: 6779,
     codigoAyr: "10019242",
     title: "Ramal 45° Awaduct 63mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -625,7 +625,7 @@ export const products = [
   },
   {
     id: 65,
-    price: 13790,
+    price: 14290,
     codigoAyr: "10019239",
     title: "Ramal 45° Awaduct 110mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -635,7 +635,7 @@ export const products = [
   },
   {
     id: 66,
-    price: 2489,
+    price: 2829,
     codigoAyr: "10022073",
     title: "Ramal 90° Awaduct 40mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -645,7 +645,7 @@ export const products = [
   },
   {
     id: 67,
-    price: 3049,
+    price: 3459,
     codigoAyr: "10022074",
     title: "Ramal 90° Awaduct 50mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -655,7 +655,7 @@ export const products = [
   },
   {
     id: 68,
-    price: 6249,
+    price: 6449,
     codigoAyr: "10022077",
     title: "Ramal 90° Awaduct 63mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -665,7 +665,7 @@ export const products = [
   },
   {
     id: 69,
-    price: 10990,
+    price: 11390,
     codigoAyr: "10022075",
     title: "Ramal 90° Awaduct 110mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -675,7 +675,7 @@ export const products = [
   },
   {
     id: 70,
-    price: 1059,
+    price: 1089,
     codigoAyr: "10019244",
     title: "Tapa Awaduct 40mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -685,7 +685,7 @@ export const products = [
   },
   {
     id: 71,
-    price: 1719,
+    price: 1769,
     codigoAyr: "10019245",
     title: "Tapa Awaduct 50mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -695,7 +695,7 @@ export const products = [
   },
   {
     id: 72,
-    price: 2779,
+    price: 2869,
     codigoAyr: "10019246",
     title: "Tapa Awaduct 63mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -705,7 +705,7 @@ export const products = [
   },
   {
     id: 73,
-    price: 4699,
+    price: 4849,
     codigoAyr: "10019243",
     title: "Tapa Awaduct 110mm",
     description: "Accesorios con Oring de la reconocida marca Awaduct, la solución ideal para sistemas de desagüe cloacal y pluvial. Fabricado con polipropileno de alta calidad, ofrece durabilidad excepcional y resistencia a la corrosión, asegurando un rendimiento confiable a lo largo del tiempo.",
@@ -1105,7 +1105,7 @@ export const products = [
   },
   {
     id: 115,
-    price: 3759,
+    price: 3949,
     codigoAyr: "10017109",
     title: "Acople de Compresión DUKE 1/2 Pulgada",
     description: "Eficiencia y durabilidad con el Acople Compresor DUKE. Diseñado para profesionales, ideal para trabajos de compresión exigentes. Asegura un ajuste perfecto y una operación sin fugas, aumentando la eficiencia de tu trabajo.",
@@ -1115,7 +1115,7 @@ export const products = [
   },
   {
     id: 116,
-    price: 4309,
+    price: 4529,
     codigoAyr: "10022897",
     title: "Acople de Compresión DUKE 3/4 Pulgada",
     description: "Eficiencia y durabilidad con el Acople Compresor DUKE. Diseñado para profesionales, ideal para trabajos de compresión exigentes. Asegura un ajuste perfecto y una operación sin fugas, aumentando la eficiencia de tu trabajo.",
@@ -1125,7 +1125,7 @@ export const products = [
   },
   {
     id: 117,
-    price: 5779,
+    price: 6059,
     codigoAyr: "10015777",
     title: "Acople de Compresión DUKE 1 Pulgada",
     description: "Eficiencia y durabilidad con el Acople Compresor DUKE. Diseñado para profesionales, ideal para trabajos de compresión exigentes. Asegura un ajuste perfecto y una operación sin fugas, aumentando la eficiencia de tu trabajo.",
@@ -1779,7 +1779,7 @@ export const products = [
   },
   {
     id: 185,
-    price: 858,
+    price: 815,
     codigoAyr: "10022896",
     title: "Niple 10 cm PPN 3/4",
     description: "Los accesorios de polipropileno (PPN) son componentes plásticos roscados diseñados para el armado de sistemas de distribución de agua fría y caliente en redes domiciliarias e industriales. Se caracterizan por su alta resistencia, durabilidad, excelente acabado interno que evita incrustaciones de sarro, y su sistema de unión a rosca que permite un ensamblado firme sin necesidad de soldaduras. Caños y tuberías tricapa de alta resistencia.",
@@ -2059,7 +2059,7 @@ export const products = [
   },
   {
     id: 214,
-    price: 381,
+    price: 395,
     codigoAyr: "10020079",
     title: "Cupla Red. Normal 25 x 20 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2069,7 +2069,7 @@ export const products = [
   },
   {
     id: 215,
-    price: 472,
+    price: 492,
     codigoAyr: "10020081",
     title: "Cupla Red. Normal 25 x 32 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2349,7 +2349,7 @@ export const products = [
   },
   {
     id: 245,
-    price: 6639,
+    price: 6689,
     codigoAyr: "10020884",
     title: "Boquillas Termofusión 20",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2359,7 +2359,7 @@ export const products = [
   },
   {
     id: 246,
-    price: 8949,
+    price: 9019,
     codigoAyr: "10020885",
     title: "Boquillas Termofusión 25",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2379,7 +2379,7 @@ export const products = [
   },
   {
     id: 248,
-    price: 8739,
+    price: 9269,
     codigoAyr: "10019401",
     title: "Canilla 1/2 Metal",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2389,7 +2389,7 @@ export const products = [
   },
   {
     id: 249,
-    price: 13090,
+    price: 13890,
     codigoAyr: "10019402",
     title: "Canilla 3/4 Metal",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2399,7 +2399,7 @@ export const products = [
   },
   {
     id: 250,
-    price: 3859,
+    price: 4059,
     codigoAyr: "10022883",
     title: "Canilla Duke 1/2 Medio Giro",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2409,7 +2409,7 @@ export const products = [
   },
   {
     id: 251,
-    price: 5049,
+    price: 5299,
     codigoAyr: "10022891",
     title: "Canilla Duke 3/4 Medio Giro",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2419,7 +2419,7 @@ export const products = [
   },
   {
     id: 252,
-    price: 8289,
+    price: 3399,
     codigoAyr: "10015718",
     title: "Corrugado Flexible 40/50 Duke",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2449,7 +2449,7 @@ export const products = [
   },
   {
     id: 255,
-    price: 6439,
+    price: 6769,
     codigoAyr: "10020457",
     title: "Llave de Paso Duke Normal 20 Termofusión",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2459,7 +2459,7 @@ export const products = [
   },
   {
     id: 256,
-    price: 8089,
+    price: 8489,
     codigoAyr: "10020458",
     title: "Llave de Paso Duke Normal 25 Termofusión",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2469,7 +2469,7 @@ export const products = [
   },
   {
     id: 257,
-    price: 11190,
+    price: 11790,
     codigoAyr: "10020459",
     title: "Llave de Paso Duke Normal 32 Termofusión",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2479,7 +2479,7 @@ export const products = [
   },
   {
     id: 258,
-    price: 4859,
+    price: 5099,
     codigoAyr: "10019289",
     title: "Sopapa Duke 40",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2489,7 +2489,7 @@ export const products = [
   },
   {
     id: 259,
-    price: 5869,
+    price: 6169,
     codigoAyr: "10020450",
     title: "Sopapa Duke 50",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2499,7 +2499,7 @@ export const products = [
   },
   {
     id: 260,
-    price: 10590,
+    price: 14490,
     codigoAyr: "10019383",
     title: "Terraja Eco Completa",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2519,7 +2519,7 @@ export const products = [
   },
   {
     id: 262,
-    price: 13690,
+    price: 12890,
     codigoAyr: "10022892",
     title: "Válvula Esférica 1 Metal",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2529,7 +2529,7 @@ export const products = [
   },
   {
     id: 263,
-    price: 6019,
+    price: 5659,
     codigoAyr: "10022893",
     title: "Válvula Esférica 1/2 Metal",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2539,7 +2539,7 @@ export const products = [
   },
   {
     id: 264,
-    price: 8259,
+    price: 7769,
     codigoAyr: "10022894",
     title: "Válvula Esférica 3/4 Metal",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2549,7 +2549,7 @@ export const products = [
   },
   {
     id: 265,
-    price: 5199,
+    price: 5459,
     codigoAyr: "10021641",
     title: "Válvula Llave de Paso Duke 1/2",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2559,7 +2559,7 @@ export const products = [
   },
   {
     id: 266,
-    price: 9579,
+    price: 9990,
     codigoAyr: "10021643",
     title: "Válvula Llave de Paso Duke 1",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2569,7 +2569,7 @@ export const products = [
   },
   {
     id: 267,
-    price: 6339,
+    price: 6659,
     codigoAyr: "10021642",
     title: "Válvula Llave de Paso Duke 3/4",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2611,7 +2611,7 @@ export const products = [
   },
   {
     id: 271,
-    price: 391,
+    price: 402,
     codigoAyr: "10021692",
     title: "Tornillo Hex Mecha 14x1 1/2",
     description: "Tornillo autoperforante cabeza hexagonal con mecha, ideal para fijar chapa sobre estructuras metálicas. Incluye arandela de EPDM para sellado hermético.",
