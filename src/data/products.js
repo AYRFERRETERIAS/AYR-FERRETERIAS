@@ -1225,7 +1225,7 @@ export const products = [
   },
   {
     id: 128,
-    price: 323900,
+    price: 339900,
     codigoAyr: "10015695",
     title: "Nivel Láser Autonivelante 360° Bremen 7287",
     description: "Posee 3 planos autonivelantes que ofrecen la posibilidad de nivelar o realizar verificaciones sobre superficies horizontales y verticales en simultáneo. Esto permite reducir el tiempo requerido para hacer el trabajo. Líneas Láser color rojo de alta luminosidad, para una correcta visualización tanto en interior como en exterior. Ideal para trabajos de construcción, carpintería, electricidad, y todo tipo de instalaciones que requieran de un alto nivel de precisión. Gran versatilidad gracias a su selector de planos, que permite encenderlos de manera individual, dual, o los 3 en simultáneo, variando la intensidad del láser.",
@@ -1288,7 +1288,7 @@ export const products = [
   },
   {
     id: 135,
-    price: 19990,
+    price: 20790,
     codigoAyr: "10022995",
     title: "Calefón Eléctrico Diluvio 20L Plástico Negro 1.1Kw",
     description: "El Calentador Calefón Eléctrico Plástico 20l Diluvio Eco Negro es la solución ideal para quienes buscan comodidad y eficiencia en su hogar. Diseñado para colgar, este modelo de 20 litros ofrece un rendimiento óptimo en espacios reducidos, permitiendo disfrutar de duchas cálidas sin complicaciones. Su construcción en plástico garantiza durabilidad y resistencia, adaptándose a diferentes estilos de baño. Con un solo nivel de temperatura, este calefón es fácil de usar, brindando agua caliente de manera rápida y efectiva.",
@@ -1306,7 +1306,7 @@ export const products = [
   },
   {
     id: 137,
-    price: 245900,
+    price: 257900,
     codigoAyr: "10023058",
     title: "Llave de Impacto a Batería 20V Brushless Ingco 500Nm",
     description: "¡Potencia sin límites con la Llave de Impacto Inalámbrica INGCO 500Nm! Esta bestia inalámbrica te brinda la potencia que necesitas para afrontar cualquier desafío con la máxima libertad. Sentí la adrenalina de dominar cada tornillo, tuerca o perno con su impresionante torque de 500Nm. Su motor brushless te garantiza un rendimiento superior, mayor durabilidad y una vida útil más larga. Incluye 3 tubos. ¡Olvidate de las limitaciones y llevá tus proyectos al siguiente nivel!",
@@ -1315,7 +1315,7 @@ export const products = [
   },
   {
     id: 138,
-    price: 121900,
+    price: 112900,
     codigoAyr: "7105087",
     title: "Minitorno Gamma 130W Maletín Kit 119 Piezas",
     description: "El Minitorno Gamma de 130W y 220V es la herramienta perfecta para tus proyectos de bricolaje y trabajos de precisión. Con su potente motor de 130W, podrás realizar tareas de lijado, pulido, grabado y más con facilidad y rapidez. Gracias a su amplio rango de velocidad, que va desde 8000 hasta 33000 rpm, tendrás el control total para adaptar la velocidad a cada tarea específica y obtener resultados profesionales. Incluye maletín con kit de 119 piezas.",
@@ -1390,7 +1390,7 @@ export const products = [
   },
   {
     id: 146,
-    price: 87790,
+    price: 88290,
     codigoAyr: "7105251",
     title: "Bordeadora Eléctrica Gamma 300W Corte 22cm",
     description: "Bordeadora de césped Gamma G3079AR 300W 220V. Producto diseñado para uso doméstico, para bordear y cortar el césped en espacios pequeños. Fácil de transportar, cómoda con apoyo de muñeca para su mejor manejo. Incluye protector de seguridad, empuñadura oval y eje curvo. Corte de 22cm.",
@@ -2694,7 +2694,7 @@ export const products = [
   },
   {
     id: 279,
-    price: 9399,
+    price: 10390,
     codigoAyr: "10022812",
     title: "Veneno Geltek Gel Cucarachicida x 12 gr",
     description: "Cebo en gel cucarachicida GelTek. Aplicar en gotas en zonas de paso de cucarachas; comen y luego mueren. Venta libre.",
@@ -2704,7 +2704,7 @@ export const products = [
   },
   {
     id: 280,
-    price: 6409,
+    price: 7239,
     codigoAyr: "10016530",
     title: "Veneno Geltek Gel Hormiguicida x 6 gr",
     description: "Cebo en gel hormiguicida GelTek para hormiga carpintera y hormigas del interior del hogar. Aplicar en gotas cerca del hormiguero.",
@@ -2714,7 +2714,7 @@ export const products = [
   },
   {
     id: 281,
-    price: 7729,
+    price: 8349,
     codigoAyr: "10015871",
     title: "Veneno Manchester Fluido 350cc",
     description: "Fluido antiseptico y desinfectante, compuestos de amonio cuaternario. Mata el 99% de virus, bacterias y hongos. Uso veterinario.",
@@ -2744,7 +2744,7 @@ export const products = [
   },
   {
     id: 284,
-    price: 6939,
+    price: 7769,
     codigoAyr: "10022562",
     title: "Veneno Geltek Cebo Bloques 120gr",
     description: "Cebo rodenticida en bloques monodosicos para ratas y lauchas, sabor irresistible. Incluye guante y guia de control de roedores.",
@@ -2784,7 +2784,7 @@ export const products = [
   },
   {
     id: 288,
-    price: 6109,
+    price: 6789,
     codigoAyr: "10017884",
     title: "Veneno Geltek Cucarachic. 6 Estuches (Cebo en Cable Canal)",
     description: "Cebo cucarachicida GelTek para colocar dentro de cables canal y zonas de paso de cucarachas. Pack de 6 estuches.",
@@ -2804,7 +2804,7 @@ export const products = [
   },
   {
     id: 290,
-    price: 17190,
+    price: 18590,
     codigoAyr: "10015905",
     title: "Veneno Manchester Fluido 700cc",
     description: "Fluido antiseptico y desinfectante, compuestos de amonio cuaternario. Mata el 99% de virus, bacterias y hongos. Uso veterinario.",
@@ -2834,7 +2834,7 @@ export const products = [
   },
   {
     id: 293,
-    price: 6069,
+    price: 6549,
     codigoAyr: "10020233",
     title: "Veneno Fluido Triunfo 500cc",
     description: "Fluido desinfectante de uso general.",
