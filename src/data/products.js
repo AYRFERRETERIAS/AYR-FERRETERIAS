@@ -1144,7 +1144,7 @@ export const products = [
   },
   {
     id: 119,
-    price: 339900,
+    price: 351900,
     codigoAyr: "10018643",
     title: "Rotomartillo Skil 1859 Mandril Mechas Cinceles Rotopercutor",
     description: "Rotomartillo SDS Plus 750W 2.1J Skil 1859. El Skil 1859 es un rotomartillo profesional diseñado para tareas exigentes. Equipado con un potente motor de 750W, ofrece gran versatilidad con tres modos de aplicación: perforación con impacto, perforación sin impacto y cincelado. Su diseño robusto y funcional lo hace ideal para profesionales que necesitan herramientas confiables y de alto rendimiento.",
@@ -1153,7 +1153,7 @@ export const products = [
   },
   {
     id: 120,
-    price: 133900,
+    price: 137900,
     codigoAyr: "10018633",
     title: "Rotomartillo Nebraska NEMERM26 800W",
     description: "Potencia, rendimiento y versatilidad en una sola herramienta. El rotomartillo Nebraska SDS Plus de 850W está diseñado para trabajos exigentes en concreto, mampostería, madera y metal, brindando perforaciones precisas y gran capacidad de impacto.",
@@ -1162,7 +1162,7 @@ export const products = [
   },
   {
     id: 121,
-    price: 124900,
+    price: 128900,
     codigoAyr: "10018642",
     title: "Lijadora Orbital Skil 7232 Negra 200W",
     description: "Lijadora orbital de palma eléctrica equipada con un potente motor de 200 Watts con bajo nivel de vibración. Fácil cambio de papel de lija con sistema de grapado, que permite cambiar el papel de lija sin rasgarlo. Interruptor sellado internamente, lo que dificulta la entrada de polvo dentro de la máquina para una mayor durabilidad.",
@@ -1171,7 +1171,7 @@ export const products = [
   },
   {
     id: 122,
-    price: 97690,
+    price: 106900,
     codigoAyr: "10022841",
     title: "Amoladora Angular Nebraska Nemea115850 115mm 850W",
     description: "La Amoladora Angular Nebraska Nemea115850 es una herramienta esencial para profesionales y aficionados al bricolaje que buscan calidad y rendimiento. Con un potente motor de 850W, esta amoladora angular permite realizar cortes precisos y eficientes gracias a su capacidad para discos de 115 mm. Su velocidad de vacío de 12.000 RPM asegura un acabado perfecto en cada proyecto. Diseñada con un gatillo paleta, ofrece un manejo cómodo y seguro, asegurando que puedas trabajar durante períodos prolongados sin fatiga.",
@@ -1180,7 +1180,7 @@ export const products = [
   },
   {
     id: 123,
-    price: 98590,
+    price: 108900,
     codigoAyr: "10022842",
     title: "Amoladora Bosch GWS 700 Professional 710W 115mm",
     description: "La Amoladora Angular Bosch GWS 700 Professional 710W – 115 mm es una herramienta robusta, confiable y eficiente, diseñada para quienes necesitan resultados profesionales todos los días. Equipada con un motor de 710 W, ofrece la potencia justa para realizar cortes, desbastes y pulidos con precisión y constancia, alcanzando hasta 12.000 RPM. Utiliza discos de 115 mm, el formato más usado del mercado, lo que garantiza amplia compatibilidad con accesorios.",
@@ -1189,7 +1189,7 @@ export const products = [
   },
   {
     id: 124,
-    price: 172900,
+    price: 178900,
     codigoAyr: "10015681",
     title: "Sierra Circular Nebraska Professional 1750W Nemesc10185",
     description: "Herramienta potente y precisa, ideal para cortes rectos en madera y trabajos de carpintería, construcción y mantenimiento. Su motor de alta potencia permite un rendimiento constante incluso en tareas exigentes.",
@@ -1198,7 +1198,7 @@ export const products = [
   },
   {
     id: 125,
-    price: 123900,
+    price: 127900,
     codigoAyr: "10018636",
     title: "Fresadora Router de Mano 6mm/1/4\" 650W Nemer012",
     description: "Fresadora Router de mano para uso profesional. Capacidad 1/4'' y 6mm (incluye ambas pinzas). Potencia: 650W. Agarre ergonómico para mayor precisión en los trabajos. Estructura reforzada que otorga mayor vida útil a la herramienta.",
@@ -1207,7 +1207,7 @@ export const products = [
   },
   {
     id: 126,
-    price: 153900,
+    price: 130900,
     codigoAyr: "10022760",
     title: "Taladro Percutor Atornillador Bosch GSB450RE 450W 10mm",
     description: "Convertite en un verdadero profesional con el taladro Percutor BOSCH GSB 450 RE, diseñado con un modelo compacto y robusto al mismo tiempo que hace más cómodo el trabajo. Cuenta con 450 watts de potencia y posee un resistente mandril en metal de alta calidad (10 mm). Con el taladro Percutor BOSCH GSB 450 podés elegir perforar con o sin percusión con el botón conmutador, además posee una tecla de doble bloqueo que facilita los trabajos continuados. ¡Súper cómodo!",
@@ -1234,7 +1234,7 @@ export const products = [
   },
   {
     id: 129,
-    price: 70690,
+    price: 72790,
     codigoAyr: "10017161",
     title: "Pistola de Calor Nebraska Nemepc2000 2000W",
     description: "La pistola de calor Nebraska NEMEPC2000 es una herramienta esencial para quienes buscan eficiencia y versatilidad en sus proyectos. Con una potencia de 2000W, permite alcanzar temperaturas que oscilan entre 380°C y 500°C, adaptándose a diversas aplicaciones, desde trabajos de bricolaje hasta tareas más complejas. Su diseño ergonómico y empuñadura antideslizante garantizan un manejo cómodo y seguro, incluso durante largas jornadas de trabajo. Incluye cuatro boquillas y un raspador, lo que la convierte en una opción completa para quienes requieren diferentes tipos de acabados y técnicas.",
@@ -1243,7 +1243,7 @@ export const products = [
   },
   {
     id: 130,
-    price: 126900,
+    price: 130900,
     codigoAyr: "10018640",
     title: "Sierra Caladora Skil 4380 380W Negro",
     description: "Sierra caladora Skil 4380 de 380 Watts. Cuenta con diseño ergonómico, amplio gatillo de accionamiento e interruptor de bloqueo apto para diestros y zurdos. El sistema de fijación de cuchillas opera mediante un tornillo tipo allen, complementado con un soporte y cursor robusto. La placa base permite la regulación de la inclinación hasta 45º hacia ambos lados, facilitando cortes precisos en ángulos de 15º, 30º y 45º.",
@@ -1252,7 +1252,7 @@ export const products = [
   },
   {
     id: 131,
-    price: 128900,
+    price: 132900,
     codigoAyr: "10018639",
     title: "Taladro Percusión Skil 6604jb 570W Mandril 10mm",
     description: "El Taladro de impacto Skil posee 570 Watts de potencia, es liviano y compacto. El mandril metálico de 1/2\" (13 milímetros) es robusto para las aplicaciones diarias. Su motor cuenta con rodamiento para mayor durabilidad. Posee interruptor de velocidad variable electrónico para realizar perforaciones y atornillados en diversos materiales, y es reversible para facilitar los desatornillados.",
@@ -1261,7 +1261,7 @@ export const products = [
   },
   {
     id: 132,
-    price: 113900,
+    price: 117900,
     codigoAyr: "10016623",
     title: "Sierra Caladora Nebraska NEMECA07550 550W",
     description: "Precisión y potencia en tus manos. Potencia de 550W para cortes precisos y eficientes. Velocidad variable no ajustable con rango de 600-2600 rpm para adaptarse a diferentes materiales y aplicaciones. Capacidad de corte de 65mm para manejar materiales de diferentes espesores. Diseño ergonómico para un manejo cómodo y seguro. Peso ligero de 1,5 kg para reducir la fatiga y mejorar la maniobrabilidad.",
@@ -1372,7 +1372,7 @@ export const products = [
   },
   {
     id: 144,
-    price: 236900,
+    price: 243900,
     codigoAyr: "10016639",
     title: "Hidrolavadora Nebraska Nemehl1200 1200W",
     description: "La Hidrolavadora Nemehl1200 de Nebraska es la herramienta ideal para mantener la limpieza de tus vehículos, hogares y diversas superficies. Con una potente potencia de 1200W y una presión máxima de 90 bar, permite eliminar la suciedad más difícil de manera eficiente. Su caudal nominal de 5 L/min garantiza un lavado efectivo sin gastar agua innecesariamente. Gracias a su sistema Auto-Stop, se optimiza el consumo energético y se alarga la vida útil del equipo. Con un peso de solo 5,2 kg, es fácil de transportar y guardar. Frecuencia 50-60Hz.",
@@ -1381,7 +1381,7 @@ export const products = [
   },
   {
     id: 145,
-    price: 91190,
+    price: 93990,
     codigoAyr: "10018635",
     title: "Lijadora Orbital Nebraska Nemelo10170 170W",
     description: "La lijadora de palma orbital es una herramienta eléctrica diseñada para el acabado de superficies mediante un movimiento vibratorio. El equipo opera con un motor de 170W que alcanza una velocidad en vacío de 14.000 rpm. Su sistema de propulsión emplea tecnología con escobillas y se alimenta mediante conexión a corriente doméstica a una frecuencia de 50Hz.",
@@ -1919,7 +1919,7 @@ export const products = [
   },
   {
     id: 199,
-    price: 5069,
+    price: 5239,
     codigoAyr: "10022895",
     title: "Codo Rosca H 20 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
