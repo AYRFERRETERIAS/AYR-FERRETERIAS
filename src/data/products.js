@@ -357,7 +357,7 @@ export const products = [
   },
   {
     id: 38,
-    price: 27090,
+    price: 28490,
     codigoAyr: "10021533",
     title: "Cerradura Prive 210",
     description: "Cerraduras Prive es una marca argentina líder con más de 90 años de trayectoria. Sus productos se destacan por su alta resistencia, durabilidad y excelente relación costo-beneficio.",
@@ -366,7 +366,7 @@ export const products = [
   },
   {
     id: 39,
-    price: 37190,
+    price: 39090,
     codigoAyr: "10021535",
     title: "Cerradura Prive 212",
     description: "Cerraduras Prive es una marca argentina líder con más de 90 años de trayectoria. Sus productos se destacan por su alta resistencia, durabilidad y excelente relación costo-beneficio.",
@@ -375,7 +375,7 @@ export const products = [
   },
   {
     id: 40,
-    price: 50490,
+    price: 53090,
     codigoAyr: "10021537",
     title: "Cerradura Prive 214",
     description: "Cerraduras Prive es una marca argentina líder con más de 90 años de trayectoria. Sus productos se destacan por su alta resistencia, durabilidad y excelente relación costo-beneficio.",
