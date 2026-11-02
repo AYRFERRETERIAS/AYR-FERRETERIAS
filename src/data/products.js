@@ -1207,7 +1207,7 @@ export const products = [
   },
   {
     id: 126,
-    price: 130900,
+    price: 122900,
     codigoAyr: "10022760",
     title: "Taladro Percutor Atornillador Bosch GSB450RE 450W 10mm",
     description: "Convertite en un verdadero profesional con el taladro Percutor BOSCH GSB 450 RE, diseñado con un modelo compacto y robusto al mismo tiempo que hace más cómodo el trabajo. Cuenta con 450 watts de potencia y posee un resistente mandril en metal de alta calidad (10 mm). Con el taladro Percutor BOSCH GSB 450 podés elegir perforar con o sin percusión con el botón conmutador, además posee una tecla de doble bloqueo que facilita los trabajos continuados. ¡Súper cómodo!",
@@ -1315,7 +1315,7 @@ export const products = [
   },
   {
     id: 138,
-    price: 112900,
+    price: 113900,
     codigoAyr: "7105087",
     title: "Minitorno Gamma 130W Maletín Kit 119 Piezas",
     description: "El Minitorno Gamma de 130W y 220V es la herramienta perfecta para tus proyectos de bricolaje y trabajos de precisión. Con su potente motor de 130W, podrás realizar tareas de lijado, pulido, grabado y más con facilidad y rapidez. Gracias a su amplio rango de velocidad, que va desde 8000 hasta 33000 rpm, tendrás el control total para adaptar la velocidad a cada tarea específica y obtener resultados profesionales. Incluye maletín con kit de 119 piezas.",
@@ -1390,7 +1390,7 @@ export const products = [
   },
   {
     id: 146,
-    price: 88290,
+    price: 88890,
     codigoAyr: "7105251",
     title: "Bordeadora Eléctrica Gamma 300W Corte 22cm",
     description: "Bordeadora de césped Gamma G3079AR 300W 220V. Producto diseñado para uso doméstico, para bordear y cortar el césped en espacios pequeños. Fácil de transportar, cómoda con apoyo de muñeca para su mejor manejo. Incluye protector de seguridad, empuñadura oval y eje curvo. Corte de 22cm.",
@@ -2611,7 +2611,7 @@ export const products = [
   },
   {
     id: 271,
-    price: 402,
+    price: 416,
     codigoAyr: "10021692",
     title: "Tornillo Hex Mecha 14x1 1/2",
     description: "Tornillo autoperforante cabeza hexagonal con mecha, ideal para fijar chapa sobre estructuras metálicas. Incluye arandela de EPDM para sellado hermético.",
@@ -2754,7 +2754,7 @@ export const products = [
   },
   {
     id: 285,
-    price: 6119,
+    price: 6729,
     codigoAyr: "3084019",
     title: "Trampera Mata-Rat de Madera (Caja x20u)",
     description: "Trampa de madera para ratas, mecanismo de resorte de accion rapida. Presentacion por caja de 20 unidades.",
