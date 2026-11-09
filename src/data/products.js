@@ -715,7 +715,7 @@ export const products = [
   },
   {
     id: 74,
-    price: 10990,
+    price: 11290,
     codigoAyr: "10022587",
     title: "Caño PVC 40mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -725,7 +725,7 @@ export const products = [
   },
   {
     id: 75,
-    price: 14190,
+    price: 14590,
     codigoAyr: "10022588",
     title: "Caño PVC 50mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -735,7 +735,7 @@ export const products = [
   },
   {
     id: 76,
-    price: 15490,
+    price: 15890,
     codigoAyr: "10022589",
     title: "Caño PVC 63mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -745,7 +745,7 @@ export const products = [
   },
   {
     id: 77,
-    price: 32690,
+    price: 33590,
     codigoAyr: "10022586",
     title: "Caño PVC 110mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -755,7 +755,7 @@ export const products = [
   },
   {
     id: 78,
-    price: 708,
+    price: 756,
     codigoAyr: "10019437",
     title: "Codo PVC 40mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -765,7 +765,7 @@ export const products = [
   },
   {
     id: 79,
-    price: 955,
+    price: 1019,
     codigoAyr: "10019438",
     title: "Codo PVC 50mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -775,7 +775,7 @@ export const products = [
   },
   {
     id: 80,
-    price: 1249,
+    price: 1339,
     codigoAyr: "10019439",
     title: "Codo PVC 63mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -785,7 +785,7 @@ export const products = [
   },
   {
     id: 81,
-    price: 4759,
+    price: 5089,
     codigoAyr: "10019441",
     title: "Codo PVC 110mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -795,7 +795,7 @@ export const products = [
   },
   {
     id: 82,
-    price: 708,
+    price: 756,
     codigoAyr: "10019448",
     title: "Cupla PVC 40mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -805,7 +805,7 @@ export const products = [
   },
   {
     id: 83,
-    price: 891,
+    price: 955,
     codigoAyr: "10019449",
     title: "Cupla PVC 50mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -815,7 +815,7 @@ export const products = [
   },
   {
     id: 84,
-    price: 982,
+    price: 1039,
     codigoAyr: "10019450",
     title: "Cupla PVC 63mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -825,7 +825,7 @@ export const products = [
   },
   {
     id: 85,
-    price: 3469,
+    price: 3709,
     codigoAyr: "10019447",
     title: "Cupla PVC 110mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -835,7 +835,7 @@ export const products = [
   },
   {
     id: 86,
-    price: 521,
+    price: 558,
     codigoAyr: "10019480",
     title: "Cupla Reductora PVC 50/40mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -845,7 +845,7 @@ export const products = [
   },
   {
     id: 87,
-    price: 650,
+    price: 695,
     codigoAyr: "10019481",
     title: "Cupla Reductora PVC 50/63mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -855,7 +855,7 @@ export const products = [
   },
   {
     id: 88,
-    price: 963,
+    price: 1029,
     codigoAyr: "10019482",
     title: "Cupla Reductora PVC 63/40mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -875,7 +875,7 @@ export const products = [
   },
   {
     id: 90,
-    price: 1059,
+    price: 1139,
     codigoAyr: "10019453",
     title: "Curva 45° PVC 40mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -885,7 +885,7 @@ export const products = [
   },
   {
     id: 91,
-    price: 1519,
+    price: 1629,
     codigoAyr: "10019454",
     title: "Curva 45° PVC 50mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -905,7 +905,7 @@ export const products = [
   },
   {
     id: 93,
-    price: 6629,
+    price: 7099,
     codigoAyr: "10019452",
     title: "Curva 45° PVC 110mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -915,7 +915,7 @@ export const products = [
   },
   {
     id: 94,
-    price: 1059,
+    price: 1139,
     codigoAyr: "10019458",
     title: "Curva 90° PVC 40mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -925,7 +925,7 @@ export const products = [
   },
   {
     id: 95,
-    price: 1749,
+    price: 1869,
     codigoAyr: "10019459",
     title: "Curva 90° PVC 50mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -935,7 +935,7 @@ export const products = [
   },
   {
     id: 96,
-    price: 2109,
+    price: 2259,
     codigoAyr: "10019460",
     title: "Curva 90° PVC 63mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -945,7 +945,7 @@ export const products = [
   },
   {
     id: 97,
-    price: 8039,
+    price: 8609,
     codigoAyr: "10019457",
     title: "Curva 90° PVC 110mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -955,7 +955,7 @@ export const products = [
   },
   {
     id: 98,
-    price: 6399,
+    price: 6849,
     codigoAyr: "10019461",
     title: "Pileta de Patio PVC",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -995,7 +995,7 @@ export const products = [
   },
   {
     id: 102,
-    price: 10490,
+    price: 11190,
     codigoAyr: "10019465",
     title: "Ramal 45° PVC 110mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -1035,7 +1035,7 @@ export const products = [
   },
   {
     id: 106,
-    price: 8009,
+    price: 8569,
     codigoAyr: "10019473",
     title: "Ramal 90° PVC 110mm",
     description: "PVC BOSTICO, la solución ideal para sistemas de desagüe. Fabricado en PVC de alta calidad con espesor de 2.8 mm, garantizando resistencia y durabilidad en aplicaciones cloacales. Su diseño permite un flujo eficiente, minimizando obstrucciones y asegurando un rendimiento óptimo.",
@@ -1879,7 +1879,7 @@ export const products = [
   },
   {
     id: 195,
-    price: 7879,
+    price: 8369,
     codigoAyr: "10019690",
     title: "Caño Tubo Termofusión 20",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1889,7 +1889,7 @@ export const products = [
   },
   {
     id: 196,
-    price: 11790,
+    price: 12590,
     codigoAyr: "10019691",
     title: "Caño Tubo Termofusión 25",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1899,7 +1899,7 @@ export const products = [
   },
   {
     id: 197,
-    price: 19190,
+    price: 20390,
     codigoAyr: "10019692",
     title: "Caño Tubo Termofusión 32",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1909,7 +1909,7 @@ export const products = [
   },
   {
     id: 198,
-    price: 3189,
+    price: 3249,
     codigoAyr: "10019606",
     title: "Codo Rosca H 20 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1919,7 +1919,7 @@ export const products = [
   },
   {
     id: 199,
-    price: 5239,
+    price: 5469,
     codigoAyr: "10022895",
     title: "Codo Rosca H 20 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1929,7 +1929,7 @@ export const products = [
   },
   {
     id: 200,
-    price: 4379,
+    price: 4479,
     codigoAyr: "10019608",
     title: "Codo Rosca H 25 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1939,7 +1939,7 @@ export const products = [
   },
   {
     id: 201,
-    price: 4459,
+    price: 4559,
     codigoAyr: "10019609",
     title: "Codo Rosca H 25 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1949,7 +1949,7 @@ export const products = [
   },
   {
     id: 202,
-    price: 8429,
+    price: 8609,
     codigoAyr: "10019611",
     title: "Codo Rosca H 32 x 1 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1959,7 +1959,7 @@ export const products = [
   },
   {
     id: 203,
-    price: 7319,
+    price: 7469,
     codigoAyr: "10019610",
     title: "Codo Rosca H 32 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1969,7 +1969,7 @@ export const products = [
   },
   {
     id: 204,
-    price: 4379,
+    price: 4479,
     codigoAyr: "10019612",
     title: "Codo Rosca M 20 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1979,7 +1979,7 @@ export const products = [
   },
   {
     id: 206,
-    price: 4379,
+    price: 4479,
     codigoAyr: "10019608",
     title: "Codo Rosca M 25 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1989,7 +1989,7 @@ export const products = [
   },
   {
     id: 207,
-    price: 4459,
+    price: 4559,
     codigoAyr: "10019609",
     title: "Codo Rosca M 25 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -1999,7 +1999,7 @@ export const products = [
   },
   {
     id: 208,
-    price: 9569,
+    price: 9769,
     codigoAyr: "10019617",
     title: "Codo Rosca M 32 x 1 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2009,7 +2009,7 @@ export const products = [
   },
   {
     id: 209,
-    price: 9089,
+    price: 9279,
     codigoAyr: "10019616",
     title: "Codo Rosca M 32 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2019,7 +2019,7 @@ export const products = [
   },
   {
     id: 210,
-    price: 312,
+    price: 318,
     codigoAyr: "10019657",
     title: "Cupla Normal 20 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2029,7 +2029,7 @@ export const products = [
   },
   {
     id: 211,
-    price: 503,
+    price: 514,
     codigoAyr: "10019659",
     title: "Cupla Normal 25 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2039,7 +2039,7 @@ export const products = [
   },
   {
     id: 212,
-    price: 711,
+    price: 726,
     codigoAyr: "10019661",
     title: "Cupla Normal 32 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2049,7 +2049,7 @@ export const products = [
   },
   {
     id: 213,
-    price: 990,
+    price: 1039,
     codigoAyr: "10020080",
     title: "Cupla Red. Normal 20 x 32 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2079,7 +2079,7 @@ export const products = [
   },
   {
     id: 216,
-    price: 3069,
+    price: 3129,
     codigoAyr: "10019618",
     title: "Cupla Rosca H 20 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2089,7 +2089,7 @@ export const products = [
   },
   {
     id: 218,
-    price: 3589,
+    price: 3659,
     codigoAyr: "10019621",
     title: "Cupla Rosca H 25 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2099,7 +2099,7 @@ export const products = [
   },
   {
     id: 219,
-    price: 4459,
+    price: 4559,
     codigoAyr: "10019622",
     title: "Cupla Rosca H 25 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2109,7 +2109,7 @@ export const products = [
   },
   {
     id: 220,
-    price: 7969,
+    price: 8139,
     codigoAyr: "10019624",
     title: "Cupla Rosca H 32 x 1 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2119,7 +2119,7 @@ export const products = [
   },
   {
     id: 221,
-    price: 3819,
+    price: 3909,
     codigoAyr: "10019625",
     title: "Cupla Rosca M 20 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2129,7 +2129,7 @@ export const products = [
   },
   {
     id: 223,
-    price: 4219,
+    price: 4309,
     codigoAyr: "10019627",
     title: "Cupla Rosca M 25 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2139,7 +2139,7 @@ export const products = [
   },
   {
     id: 224,
-    price: 4939,
+    price: 5049,
     codigoAyr: "10019628",
     title: "Cupla Rosca M 25 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2149,7 +2149,7 @@ export const products = [
   },
   {
     id: 225,
-    price: 8529,
+    price: 8709,
     codigoAyr: "10019629",
     title: "Cupla Rosca M 32 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2159,7 +2159,7 @@ export const products = [
   },
   {
     id: 226,
-    price: 439,
+    price: 449,
     codigoAyr: "10019645",
     title: "Codo 45° 20 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2169,7 +2169,7 @@ export const products = [
   },
   {
     id: 227,
-    price: 702,
+    price: 717,
     codigoAyr: "10019646",
     title: "Codo 45° 25 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2179,7 +2179,7 @@ export const products = [
   },
   {
     id: 228,
-    price: 1309,
+    price: 1339,
     codigoAyr: "10019647",
     title: "Codo 45° 32 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2189,7 +2189,7 @@ export const products = [
   },
   {
     id: 229,
-    price: 399,
+    price: 408,
     codigoAyr: "10019648",
     title: "Codo Normal 20 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2199,7 +2199,7 @@ export const products = [
   },
   {
     id: 230,
-    price: 627,
+    price: 640,
     codigoAyr: "10019650",
     title: "Codo Normal 25 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2209,7 +2209,7 @@ export const products = [
   },
   {
     id: 231,
-    price: 1069,
+    price: 1099,
     codigoAyr: "10019652",
     title: "Codo Normal 32 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2219,7 +2219,7 @@ export const products = [
   },
   {
     id: 232,
-    price: 1949,
+    price: 1989,
     codigoAyr: "10019666",
     title: "Sobrepaso Normal 20 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2229,7 +2229,7 @@ export const products = [
   },
   {
     id: 233,
-    price: 2809,
+    price: 2869,
     codigoAyr: "10019667",
     title: "Sobrepaso Normal 25 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2239,7 +2239,7 @@ export const products = [
   },
   {
     id: 234,
-    price: 4379,
+    price: 4479,
     codigoAyr: "10019668",
     title: "Sobrepaso Normal 32 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2249,7 +2249,7 @@ export const products = [
   },
   {
     id: 235,
-    price: 638,
+    price: 652,
     codigoAyr: "10019672",
     title: "TEE Normal 20 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2259,7 +2259,7 @@ export const products = [
   },
   {
     id: 236,
-    price: 1069,
+    price: 1099,
     codigoAyr: "10019674",
     title: "TEE Normal 25 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2269,7 +2269,7 @@ export const products = [
   },
   {
     id: 237,
-    price: 1629,
+    price: 1669,
     codigoAyr: "10019676",
     title: "TEE Normal 32 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2279,7 +2279,7 @@ export const products = [
   },
   {
     id: 238,
-    price: 4179,
+    price: 4269,
     codigoAyr: "10019631",
     title: "TEE RH 20 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2289,7 +2289,7 @@ export const products = [
   },
   {
     id: 239,
-    price: 6459,
+    price: 6589,
     codigoAyr: "10019634",
     title: "TEE RH 25 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2299,7 +2299,7 @@ export const products = [
   },
   {
     id: 240,
-    price: 5019,
+    price: 5129,
     codigoAyr: "10019637",
     title: "TEE RM 20 x 1/2 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2309,7 +2309,7 @@ export const products = [
   },
   {
     id: 241,
-    price: 7169,
+    price: 7329,
     codigoAyr: "10019639",
     title: "TEE RM 25 x 3/4 Termofusión",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2319,7 +2319,7 @@ export const products = [
   },
   {
     id: 242,
-    price: 1569,
+    price: 1599,
     codigoAyr: "10019678",
     title: "Unión Doble Normal 20",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2329,7 +2329,7 @@ export const products = [
   },
   {
     id: 243,
-    price: 2159,
+    price: 2209,
     codigoAyr: "10019679",
     title: "Unión Doble Normal 25",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2339,7 +2339,7 @@ export const products = [
   },
   {
     id: 244,
-    price: 3659,
+    price: 3739,
     codigoAyr: "10019680",
     title: "Unión Doble Normal 32",
     description: "Los accesorios de termofusión son componentes de polipropileno diseñados para instalaciones de agua fría y caliente mediante soldadura por fusión térmica: caños y accesorios se funden entre sí con calor, logrando una unión monolítica, totalmente hermética y sin roscas que puedan perder. Ideales para redes domiciliarias e industriales que requieren alta resistencia a la presión y a la temperatura.",
@@ -2379,7 +2379,7 @@ export const products = [
   },
   {
     id: 248,
-    price: 9269,
+    price: 9279,
     codigoAyr: "10019401",
     title: "Canilla 1/2 Metal",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2429,7 +2429,7 @@ export const products = [
   },
   {
     id: 253,
-    price: 18290,
+    price: 18690,
     codigoAyr: "10020476",
     title: "Llave de Paso Campana 20",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2439,7 +2439,7 @@ export const products = [
   },
   {
     id: 254,
-    price: 20290,
+    price: 20690,
     codigoAyr: "10020478",
     title: "Llave de Paso Campana 25",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2519,7 +2519,7 @@ export const products = [
   },
   {
     id: 262,
-    price: 12890,
+    price: 14190,
     codigoAyr: "10022892",
     title: "Válvula Esférica 1 Metal",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2529,7 +2529,7 @@ export const products = [
   },
   {
     id: 263,
-    price: 5659,
+    price: 6229,
     codigoAyr: "10022893",
     title: "Válvula Esférica 1/2 Metal",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
@@ -2539,7 +2539,7 @@ export const products = [
   },
   {
     id: 264,
-    price: 7769,
+    price: 8549,
     codigoAyr: "10022894",
     title: "Válvula Esférica 3/4 Metal",
     description: "Accesorios y herramientas complementarias para instalaciones de plomería domiciliaria e industrial: llaves de paso, válvulas, canillas, sopapas y herramientas de corte y roscado. Fabricados con materiales de calidad para garantizar durabilidad, hermeticidad y un correcto funcionamiento en cada instalación.",
